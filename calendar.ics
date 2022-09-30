@@ -1,0 +1,2056 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Planning 2022-2023
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:MVA promo 2022-2023
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230114T225959Z;BYDAY=FR
+EXDATE;TZID=Europe/Paris:20221230T140000
+EXDATE;TZID=Europe/Paris:20221216T140000
+EXDATE;TZID=Europe/Paris:20221111T140000
+CREATED:20220705T094548Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>salle 2001</html-blob><br><html-blob>Numerus Clausus : Cours limité à 30 étudiants<u></u></html-blob>
+DTEND:20221014T140000Z
+LAST-MODIFIED:20220711T135525Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221014T120000Z
+STATUS:CONFIRMED
+SUMMARY:Responsible Machine Learning - N. Vayatis\, D. Abu Elyounes\, T. Evgeniou\, M. Garin
+TRANSP:OPAQUE
+UID:60pb94ckb0jba6te8iv3p8i310_R20221014T120000@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221117T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>3h TD - Jean-Baptiste FEST<br><br><u></u></html-blob>
+DTEND:20221117T114500Z
+LAST-MODIFIED:20220905T125944Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221117T084500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221021T140000
+CREATED:20220705T094548Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>salle 2001</html-blob><br><html-blob><u></u>Numerus Clausus : Cours limité à 30 étudiants<u></u><u></u><u></u></html-blob>
+DTEND:20221025T093000Z
+LAST-MODIFIED:20220909T143022Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221025T073000Z
+STATUS:CONFIRMED
+SUMMARY:Responsible Machine Learning - N. Vayatis\, D. Abu Elyounes\, T. Evgeniou\, M. Garin
+TRANSP:OPAQUE
+UID:60pb94ckb0jba6te8iv3p8i310_R20221014T120000@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221223T140000
+CREATED:20220705T094548Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>salle 2001</html-blob><br><html-blob>Numerus Clausus : Cours limité à 30 étudiants<u></u></html-blob>
+DTEND:20221216T150000Z
+LAST-MODIFIED:20220711T135525Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221216T130000Z
+STATUS:CONFIRMED
+SUMMARY:Responsible Machine Learning - N. Vayatis\, D. Abu Elyounes\, T. Evgeniou\, M. Garin
+TRANSP:OPAQUE
+UID:60pb94ckb0jba6te8iv3p8i310_R20221014T120000@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221208T225959Z;BYDAY=TH
+EXDATE;TZID=Europe/Paris:20221201T094500
+EXDATE;TZID=Europe/Paris:20221124T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>3h Cours magistral<br><br></html-blob>
+DTEND:20221006T110000Z
+LAST-MODIFIED:20220622T075605Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221006T074500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221208T094500
+CREATED:20220622T075605Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>examen écrit<br><br><u></u></html-blob>
+DTEND:20221208T110000Z
+LAST-MODIFIED:20220905T125822Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221208T090000Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221006T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>3h Cours magistral - Emilie CHOUZENOUX<br><br><u></u></html-blob>
+DTEND:20221006T104500Z
+LAST-MODIFIED:20220905T125837Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221006T074500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221013T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>3h Cours magistral - Emilie CHOUZENOUX<br><br><u></u></html-blob>
+DTEND:20221013T104500Z
+LAST-MODIFIED:20220905T125847Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221013T074500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221020T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>3h TD - jean-Baptiste FEST<br><br><u></u></html-blob>
+DTEND:20221020T104500Z
+LAST-MODIFIED:20220905T125855Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221020T074500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221027T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>3h TD - Jean-Baptiste FEST<br><br><u></u></html-blob>
+DTEND:20221027T104500Z
+LAST-MODIFIED:20220905T125911Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221027T074500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221103T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>1h30 Cours magistral Emilie CHOUZENOUX</html-blob><br><html-blob>1h30 TD Jean-Baptiste FEST<br></html-blob><br><html-blob><br><u></u></html-blob>
+DTEND:20221103T114500Z
+LAST-MODIFIED:20220905T125924Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221103T084500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T134150Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Amphi 1Z14</html-blob><br><html-blob>Cours 2<br><u></u><u></u></html-blob>
+DTEND:20221017T140000Z
+LAST-MODIFIED:20220622T145049Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221017T120000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J. Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:0asha0j89nl3obh8guilmlnhjc@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220620T130713Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>Intervenant : Marie Garin<br>Amphi 0I10<u></u><u></u>
+DTEND:20220923T100000Z
+LAST-MODIFIED:20220920T085457Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220923T080000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Probabilités
+TRANSP:TRANSPARENT
+UID:7bnace9av5v1clor7v95dncptk@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220929T102634Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>salle 1N82<u></u><br><u></u> <u></u><br><u></u><a href="https://www.google.com/url?q=http://www-sop.inria.fr/asclepios/cours/MVA/&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw2PztnNL9epXj23zjSmU-wl" target="_blank">http://www-sop.inria.fr/asclepios/cours/MVA/</a><u></u>
+DTEND:20221102T154500Z
+LAST-MODIFIED:20220929T102634Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221102T123000Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:4ii3cbgnpkkhu7eo07i6uh0f7c@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221003T130000
+CREATED:20220705T130345Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi Jean Jaurès
+DTEND:20221003T140000Z
+LAST-MODIFIED:20220912T162633Z
+LOCATION:ENS Ulm\, 45 rue d'Ulm Paris 5ème
+DTSTART:20221003T110000Z
+STATUS:CONFIRMED
+SUMMARY:Convex optimization   A.d'Aspremont
+TRANSP:OPAQUE
+UID:4lqko0emrtu6eg1kci9p6mntv5@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221114T225959Z;BYDAY=MO
+EXDATE;TZID=Europe/Paris:20221024T130000
+CREATED:20220705T130345Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:salle Dussane
+DTEND:20221003T140000Z
+LAST-MODIFIED:20220912T162611Z
+LOCATION:ENS Ulm\, 45 rue d'Ulm Paris 5ème
+DTSTART:20221003T110000Z
+STATUS:CONFIRMED
+SUMMARY:Convex optimization   A.d'Aspremont
+TRANSP:OPAQUE
+UID:4lqko0emrtu6eg1kci9p6mntv5@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220929T102702Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>salle 1N82<u></u><br><u></u><a href="https://www.google.com/url?q=http://www-sop.inria.fr/asclepios/cours/MVA/&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw2PztnNL9epXj23zjSmU-wl" target="_blank">http://www-sop.inria.fr/asclepios/cours/MVA/</a><u></u>
+DTEND:20221109T154500Z
+LAST-MODIFIED:20220929T102702Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221109T123000Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:2gchbnrprnq319qftksrng8ug4@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220425T134617Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Date prévisionnelle à confirmer
+DTEND:20221130T110000Z
+LAST-MODIFIED:20220425T134618Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221130T080000Z
+STATUS:CONFIRMED
+SUMMARY:Forum des stages MVA 
+TRANSP:OPAQUE
+UID:1f12ffjakkkbd2t1n1cihsrj0i@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220217T163637Z
+SEQUENCE:3
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u>Intervenant : Enric Meinhardt<br>&nbsp\;Amphi 1Z14<u></u><br><u></u><u></u><pre>9h-11h30 : cours / 13h-16h : exercices</pre><u></u></html-blob>
+DTEND:20220919T140000Z
+LAST-MODIFIED:20220916T125412Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220919T070000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Analyse fonctionnelle et analyse de Fourier
+TRANSP:TRANSPARENT
+UID:4e1nrd2cqkbardljaeglr73ekq@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230215T225959Z;BYDAY=TH
+EXDATE;TZID=Europe/Paris:20230209T134500
+EXDATE;TZID=Europe/Paris:20230202T134500
+EXDATE;TZID=Europe/Paris:20230126T134500
+CREATED:20220905T141306Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi e.093\, bât Bouygues
+DTEND:20230112T160000Z
+LAST-MODIFIED:20220928T165802Z
+LOCATION:CentraleSupélec\, 3 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230112T124500Z
+STATUS:CONFIRMED
+SUMMARY:Deep learning for medical imaging  O.Colliot \; M. Vakalopoulou
+TRANSP:OPAQUE
+UID:2llgdsbtfgm61g9858egqbnj11@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221207T225959Z;BYDAY=WE
+CREATED:20220615T051229Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi 1Z14
+DTEND:20221005T153000Z
+LAST-MODIFIED:20220615T130443Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221005T123000Z
+STATUS:CONFIRMED
+SUMMARY:Image denoising : the human machine competition JM.Morel\, G.Facciolo\, P.Arias
+TRANSP:OPAQUE
+UID:4eveurvsu46qrq697qplekc5hj@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221019T143000
+CREATED:20220615T051229Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Salle 1Z53
+DTEND:20221019T153000Z
+LAST-MODIFIED:20220615T130658Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221019T123000Z
+STATUS:CONFIRMED
+SUMMARY:Image denoising : the human machine competition JM.Morel\, G.Facciolo\, P.Arias
+TRANSP:OPAQUE
+UID:4eveurvsu46qrq697qplekc5hj@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20230119T134500
+CREATED:20220905T141306Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi e.093\, bât Bouygues
+DTEND:20230119T160000Z
+LAST-MODIFIED:20220928T165802Z
+LOCATION:CentraleSupélec\, 3 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230119T124500Z
+STATUS:CONFIRMED
+SUMMARY:Deep learning for medical imaging  O.Colliot \; M. Vakalopoulou
+TRANSP:OPAQUE
+UID:2llgdsbtfgm61g9858egqbnj11@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T134237Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Amphi 1Z14</html-blob><br><html-blob>Cours4<u></u></html-blob>
+DTEND:20221114T150000Z
+LAST-MODIFIED:20220622T145217Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221114T130000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J. Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:43h6ffkkbrcp9ddj1hc7ad84fk@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T135112Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>TP 2</span><br><br>Salles 1S25 - 1S32 - 1S33<u></u></html-blob>
+DTEND:20221018T110000Z
+LAST-MODIFIED:20220622T135112Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221018T090000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J.Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:0u5pni1fuis47gorkaronicbbl@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221215T225959Z;BYDAY=TH
+CREATED:20220620T140136Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u><pre></pre>Salle 3E34 (bâtiment Sud-Ouest- 3è étage)<u></u><br><u></u>&nbsp\;<u></u><br><u></u>Cours de 13h30 à 16h30 - TD de 16h30 à 18h30<u></u></html-blob>
+DTEND:20221027T164500Z
+LAST-MODIFIED:20220910T122238Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221027T113000Z
+STATUS:CONFIRMED
+SUMMARY:Méthodes mathématiques pour les neurosciences  E.Tanré\, R.Veltz
+TRANSP:OPAQUE
+UID:2adagj6ifksklchg04p42rh11o_R20221027T113000@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220620T130804Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Cours magistral</html-blob><br><html-blob>Intervenant : JC. Pesquet<br>Amphi 0I10</html-blob>
+DTEND:20220929T103000Z
+LAST-MODIFIED:20220913T165819Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220929T080000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Optimisation convexe
+TRANSP:TRANSPARENT
+UID:0118ubo9ck8bmjfacbfgjbaa1p@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220920T085710Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>Intervenants : Marie Garin &amp\; Antoine Mazarguil<br>Amphi 0I10<u></u>
+DTEND:20220927T143000Z
+LAST-MODIFIED:20220923T124851Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220927T110000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Statistiques
+TRANSP:TRANSPARENT
+UID:5382d2k0gejo8kmpgs08iflvln@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220620T130742Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Intervenants : Marie Garin &amp\; Antoine Mazarguil<br>Amphi 0I10</html-blob>
+DTEND:20220927T093000Z
+LAST-MODIFIED:20220923T124836Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220927T073000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Statistiques
+TRANSP:TRANSPARENT
+UID:2jkv06bh7j0b3h5cj726t046rn@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T135240Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u><u></u><u></u><span>TP 5</span><br><br>Salles 1S25 - 1S32 - 1S33<u></u><u></u><u></u><u></u></html-blob>
+DTEND:20221129T120000Z
+LAST-MODIFIED:20220622T135240Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221129T100000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J.Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:03l808o1pv811l4aud66464h6k@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221207T225959Z;BYDAY=WE
+CREATED:20220719T133436Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:3E34
+DTEND:20221005T153000Z
+LAST-MODIFIED:20220907T103850Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221005T123000Z
+STATUS:CONFIRMED
+SUMMARY:RR - Fondamentaux de la recherche reproductible et du logiciel libre - M. Colom Barco
+TRANSP:OPAQUE
+UID:58lu9olr4gahsjb1mk41j8jh0c@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220708T161340Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>salle 1I82 <br></html-blob><br><html-blob><a href="http://www-sop.inria.fr/asclepios/cours/MVA/" id="ow643" __is_owner="true">http://www-sop.inria.fr/asclepios/cours/MVA/</a></html-blob>
+DTEND:20221005T160000Z
+LAST-MODIFIED:20220929T102446Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221005T124500Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:11ira3cu79m7677droktjuq7i3@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221213T225959Z;BYDAY=TU
+EXDATE;TZID=Europe/Paris:20221101T161500
+CREATED:20220602T142257Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Salle à confirmer
+DTEND:20221004T171500Z
+LAST-MODIFIED:20220602T142257Z
+LOCATION:ENS Ulm\, 45 rue d'Ulm 5ème
+DTSTART:20221004T141500Z
+STATUS:CONFIRMED
+SUMMARY:Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic\, J.Ponce\, I.Laptev\, C.Schmid
+TRANSP:OPAQUE
+UID:6pa6g1bee1ulrugo0t2mr34c6c@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T163113Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z14
+DTEND:20221117T170000Z
+LAST-MODIFIED:20220913T163113Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221117T130000Z
+STATUS:CONFIRMED
+SUMMARY:Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis
+TRANSP:OPAQUE
+UID:0dl1qntmbo7i5iik8cl226taga@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T165744Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>TD<br><u></u>Intervenant : JC. Pesquet\, Ségolène Martin<br>Amphi 0I10<u></u></html-blob>
+DTEND:20220928T150000Z
+LAST-MODIFIED:20220913T165744Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220928T123000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Optimisation convexe
+TRANSP:TRANSPARENT
+UID:7qvca781t28e4d7pacfo6nj0va@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T134102Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Amphi 1Z14</html-blob><br><html-blob>Cours 1<br><br><u></u></html-blob>
+DTEND:20221004T110000Z
+LAST-MODIFIED:20220622T145000Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221004T090000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J. Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:5e57nuodktnt46d49idk94nbmf@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220620T130633Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u>Intervenant : Enric Meinhardt<br>Amphi 1Z14<u></u><br><u></u><u></u><pre>9h-11h30 : cours / 13h-16h : exercices</pre><u></u></html-blob>
+DTEND:20220920T140000Z
+LAST-MODIFIED:20220916T125424Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220920T070000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Analyse fonctionnelle et analyse de Fourier
+TRANSP:TRANSPARENT
+UID:6vgi52bfuu7nqh0sqqq52tmipo@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T135040Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><span>TP 1</span><br><br>Salles 1S25 - 1S32 - 1S33</html-blob>
+DTEND:20221011T110000Z
+LAST-MODIFIED:20220622T135041Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221011T090000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J.Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:02qukrdjq71a3hb70b6sumbkg9@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220929T102554Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>salle 1N82</html-blob><br><html-blob>&nbsp\;</html-blob><br><html-blob><a href="http://www-sop.inria.fr/asclepios/cours/MVA/" id="ow441" __is_owner="true">http://www-sop.inria.fr/asclepios/cours/MVA/</a></html-blob>
+DTEND:20221019T160000Z
+LAST-MODIFIED:20220929T102946Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221019T124500Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:3kcmug8m7qfdr2m84mj93dnms3@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230210T225959Z;BYDAY=FR
+CREATED:20220926T171549Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Salle 3E34</html-blob><br><html-blob>TD <br><u></u></html-blob>
+DTEND:20230106T150000Z
+LAST-MODIFIED:20220926T172458Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230106T130000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi
+TRANSP:OPAQUE
+UID:1nkh38huch91ej069va6779jlu@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20230120T140000
+CREATED:20220926T171549Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u>Salle 1N82<br><u></u>TD <br><u></u><u></u></html-blob>
+DTEND:20230120T150000Z
+LAST-MODIFIED:20220926T172849Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230120T130000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi
+TRANSP:OPAQUE
+UID:1nkh38huch91ej069va6779jlu@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T162957Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z31
+DTEND:20221025T110000Z
+LAST-MODIFIED:20220913T162957Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221025T070000Z
+STATUS:CONFIRMED
+SUMMARY:Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis
+TRANSP:OPAQUE
+UID:341ob0mebuhhg15go8vrhc4qkt@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20230210T140000
+CREATED:20220926T171549Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Salle 3E341<br><u></u>TD <br><u></u><u></u></html-blob>
+DTEND:20230210T150000Z
+LAST-MODIFIED:20220926T172904Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230210T130000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi
+TRANSP:OPAQUE
+UID:1nkh38huch91ej069va6779jlu@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221212T225959Z;BYDAY=MO
+CREATED:20220614T154012Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Salle Henri Cartan
+DTEND:20221107T103000Z
+LAST-MODIFIED:20220927T052303Z
+LOCATION:ENS - 29 rue d’Ulm Paris 5ème 
+DTSTART:20221107T080000Z
+STATUS:CONFIRMED
+SUMMARY:Computational optimal transport  G.Peyré
+TRANSP:OPAQUE
+UID:5o6c5ch2nor95eas5usj7b3ul2@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220914T173246Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1B14
+DTEND:20221214T170000Z
+LAST-MODIFIED:20220926T145142Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221214T130000Z
+STATUS:CONFIRMED
+SUMMARY:Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis
+TRANSP:OPAQUE
+UID:24drvbg03ttpmo1ffmbqmu6gbb@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221007T140000
+CREATED:20220705T094548Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>salle 2001</html-blob><br><html-blob>Numerus Clausus : Cours limité à 30 étudiants<u></u></html-blob>
+DTEND:20221007T140000Z
+LAST-MODIFIED:20220711T135511Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221007T120000Z
+STATUS:CONFIRMED
+SUMMARY:Responsible Machine Learning - N. Vayatis\, D. Abu Elyounes\, T. Evgeniou\, M. Garin
+TRANSP:OPAQUE
+UID:60pb94ckb0jba6te8iv3p8i310@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221013T215959Z;BYDAY=FR
+CREATED:20220705T094548Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Numerus Clausus : Cours limité à 30 étudiants</html-blob>
+DTEND:20221007T140000Z
+LAST-MODIFIED:20220711T135525Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221007T120000Z
+STATUS:CONFIRMED
+SUMMARY:Responsible Machine Learning - N. Vayatis\, D. Abu Elyounes\, T. Evgeniou\, M. Garin
+TRANSP:OPAQUE
+UID:60pb94ckb0jba6te8iv3p8i310@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220707T100021Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221104T110000Z
+LAST-MODIFIED:20220908T150539Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221104T090000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:1t6gp63l067e1u4bc8snkfeg0g@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T135310Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u><u></u><u></u><u></u><span>TP 6</span><br><br>Salles 1S25 - 1S32 - 1S33<u></u><u></u><u></u><u></u><u></u></html-blob>
+DTEND:20221206T120000Z
+LAST-MODIFIED:20220622T135310Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221206T100000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J.Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:41q6ai7pa1a42kvtdqfa6ncjf6@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230316T225959Z;BYDAY=TH
+EXDATE;TZID=Europe/Paris:20230223T134500
+EXDATE;TZID=Europe/Paris:20230216T134500
+CREATED:20220905T141306Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi e.093\, bât Bouygues
+DTEND:20230126T160000Z
+LAST-MODIFIED:20220928T165802Z
+LOCATION:CentraleSupélec\, 3 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230126T124500Z
+STATUS:CONFIRMED
+SUMMARY:Deep learning for medical imaging  O.Colliot \; M. Vakalopoulou
+TRANSP:OPAQUE
+UID:pbjt6nteeuf96ut8lmkm37e14k@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221201T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221201T171500Z
+LAST-MODIFIED:20220928T151836Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221201T123000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221208T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221208T171500Z
+LAST-MODIFIED:20220928T151849Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221208T123000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221215T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>EXAMEN&nbsp\;<u></u><br><u></u>Horaires à préciser <br><u></u><br><u></u><u></u><br><u></u><u></u><u></u></html-blob>
+DTEND:20221215T171500Z
+LAST-MODIFIED:20220928T151905Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221215T123000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221215T225959Z;BYDAY=TH
+EXDATE;TZID=Europe/Paris:20221103T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15</html-blob>
+DTEND:20221006T161500Z
+LAST-MODIFIED:20220621T051816Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221006T113000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221006T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Salle Cordier C (5è étage)</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221006T161500Z
+LAST-MODIFIED:20220928T151659Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221006T113000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221013T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Salle Cordier C (5è étage)</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221013T161500Z
+LAST-MODIFIED:20220928T151722Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221013T113000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T163146Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z18
+DTEND:20221122T170000Z
+LAST-MODIFIED:20220913T163146Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221122T130000Z
+STATUS:CONFIRMED
+SUMMARY:Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis
+TRANSP:OPAQUE
+UID:0tr9718q2uu4t3lica9krmmtbf@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T163159Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z14
+DTEND:20221129T170000Z
+LAST-MODIFIED:20220913T163159Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221129T130000Z
+STATUS:CONFIRMED
+SUMMARY:Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis
+TRANSP:OPAQUE
+UID:6na6admd2l5d7pj5skvbbesnn7@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221020T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221020T161500Z
+LAST-MODIFIED:20220928T151732Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221020T113000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221027T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221027T161500Z
+LAST-MODIFIED:20220928T151742Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221027T113000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230111T225959Z;BYDAY=WE
+EXDATE;TZID=Europe/Paris:20221228T174500
+EXDATE;TZID=Europe/Paris:20221221T174500
+EXDATE;TZID=Europe/Paris:20221102T174500
+CREATED:20220923T141024Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221019T174500Z
+LAST-MODIFIED:20220927T062033Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221019T154500Z
+STATUS:CONFIRMED
+SUMMARY:Séminaire Turing
+TRANSP:OPAQUE
+UID:3ah5o01gcq47c2emqjpjh6psc8@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221004T110000
+CREATED:20220705T093702Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221003T113000Z
+LAST-MODIFIED:20220707T095426Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221003T093000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221122T110000
+CREATED:20220705T093702Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221121T150000Z
+LAST-MODIFIED:20220707T100151Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221121T130000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221110T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221110T171500Z
+LAST-MODIFIED:20220928T151753Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221110T123000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221216T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span><span><br>COURS 9h15 - 11h15 : <span>amphi DIEULAFOY</span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span></span><br><span>&nbsp\;</span><br><br><u></u></html-blob>
+DTEND:20221216T121500Z
+LAST-MODIFIED:20220829T125036Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221216T081500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221216T225959Z;BYDAY=FR
+EXDATE;TZID=Europe/Paris:20221111T091500
+EXDATE;TZID=Europe/Paris:20221104T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><br><span>&nbsp\;</span><br><br></html-blob>
+DTEND:20221007T111500Z
+LAST-MODIFIED:20220620T130454Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221007T071500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221007T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><span></span><br>COURS 9h15 - 11h15 : <span>amphi LUTON </span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font><br><br><u></u></html-blob>
+DTEND:20221007T111500Z
+LAST-MODIFIED:20220829T124840Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221007T071500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221014T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span><br>COURS 9h15 - 11h15 : <span>amphi LUTON </span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span><br><span>&nbsp\;</span><br><br><u></u></html-blob>
+DTEND:20221014T111500Z
+LAST-MODIFIED:20220829T124853Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221014T071500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221021T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><span></span><span><br>COURS 9h15 - 11h15 : <span>amphi LUTON </span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span><br><br><u></u></html-blob>
+DTEND:20221021T111500Z
+LAST-MODIFIED:20220829T124907Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221021T071500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221117T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221117T171500Z
+LAST-MODIFIED:20220928T151809Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221117T123000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221124T133000
+CREATED:20220621T051816Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span>Salle Cordier C (5è étage)</span>&nbsp\;</html-blob><br><html-blob>cours de 13h30 à 16h\, puis TP de 16h15 à 18h15<u></u></html-blob>
+DTEND:20221124T171500Z
+LAST-MODIFIED:20220928T151823Z
+LOCATION:UNIVERSITE DE PARIS \, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221124T123000Z
+STATUS:CONFIRMED
+SUMMARY:Sub-pixel image processing  Lionel Moisan
+TRANSP:OPAQUE
+UID:4oaeqniktge2039qf66dfrqrl9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221125T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span><span><br>COURS 9h15 - 11h15 : <span>amphi DIEULAFOY</span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span></span><br><span>&nbsp\;</span><br><br><u></u></html-blob>
+DTEND:20221125T121500Z
+LAST-MODIFIED:20220829T124958Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221125T081500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221202T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span><span><br>COURS 9h15 - 11h15 : <span>amphi DIEULAFOY</span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span></span><br><span>&nbsp\;</span><br><br><u></u></html-blob>
+DTEND:20221202T121500Z
+LAST-MODIFIED:20220829T125011Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221202T081500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221209T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><span></span><span><span><br>COURS 9h15 - 11h15 : <span>amphi DIEULAFOY</span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span></span><br><br><u></u></html-blob>
+DTEND:20221209T121500Z
+LAST-MODIFIED:20220829T125026Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221209T081500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T135140Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u><span>TP 3</span><br><br>Salles 1S25 - 1S32 - 1S33<u></u><u></u></html-blob>
+DTEND:20221108T120000Z
+LAST-MODIFIED:20220622T135140Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221108T100000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J.Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:6hv35m8s74qogfdfeiqu3t3tkl@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221026T215959Z;BYDAY=TH
+CREATED:20220620T140136Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><pre></pre>Salle 1X10 (bâtiment Nord - 1er étage)</html-blob><br><html-blob>&nbsp\;</html-blob><br><html-blob>Cours de 13h30 à 16h30 - TD de 16h30 à 18h30</html-blob>
+DTEND:20221020T164500Z
+LAST-MODIFIED:20220910T122238Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221020T113000Z
+STATUS:CONFIRMED
+SUMMARY:Méthodes mathématiques pour les neurosciences  E.Tanré\, R.Veltz
+TRANSP:OPAQUE
+UID:2adagj6ifksklchg04p42rh11o@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221020T133000
+CREATED:20220620T140136Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u><pre></pre>Salle 3E34 (bâtiment Sud-Ouest- 3è étage)<u></u><br><u></u>&nbsp\;<u></u><br><u></u>Cours de 13h30 à 16h30 - TD de 16h30 à 18h30<u></u></html-blob>
+DTEND:20221020T164500Z
+LAST-MODIFIED:20220910T122238Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221020T113000Z
+STATUS:CONFIRMED
+SUMMARY:Méthodes mathématiques pour les neurosciences  E.Tanré\, R.Veltz
+TRANSP:OPAQUE
+UID:2adagj6ifksklchg04p42rh11o@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T134837Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Amphi 1Z14</html-blob><br><html-blob>Cours 6<u></u></html-blob>
+DTEND:20221128T150000Z
+LAST-MODIFIED:20220622T145326Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221128T130000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J. Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:2cvp3f2po1e2ojvre8k24klf8q@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220929T102200Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>salle 1I82 <br><u></u><br><u></u><a href="http://www-sop.inria.fr/asclepios/cours/MVA/">http://www-sop.inria.fr/asclepios/cours/MVA/</a><u></u><u></u></html-blob>
+DTEND:20221026T144500Z
+LAST-MODIFIED:20220929T102200Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221026T113000Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:66o0fovpncr1ml3muldp7b8gti@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220602T142629Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Salle à confirmer
+DTEND:20230116T181500Z
+LAST-MODIFIED:20220602T142629Z
+LOCATION:ENS Ulm\, 45 rue d'Ulm 5ème
+DTSTART:20230116T151500Z
+STATUS:CONFIRMED
+SUMMARY:Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic\, J.Ponce\, I.Laptev\, C.Schmid
+TRANSP:OPAQUE
+UID:69vphkh12np4dhid4c0i90nied@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220615T110218Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Intervenant : Marie Garin<br>Amphi 0I10<u></u></html-blob>
+DTEND:20220922T100000Z
+LAST-MODIFIED:20220920T085413Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220922T080000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Probabilités
+TRANSP:TRANSPARENT
+UID:4a1ds7egcppv14or3kf34sup0j@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221116T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Distanciel
+DTEND:20221116T110000Z
+LAST-MODIFIED:20220718T173848Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221116T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221123T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Distanciel
+DTEND:20221123T110000Z
+LAST-MODIFIED:20220718T173902Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221123T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230111T225959Z;BYDAY=WE
+EXDATE;TZID=Europe/Paris:20221102T090000
+EXDATE;TZID=Europe/Paris:20221026T090000
+EXDATE;TZID=Europe/Paris:20221228T090000
+EXDATE;TZID=Europe/Paris:20221221T090000
+EXDATE;TZID=Europe/Paris:20221130T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi 0I10
+DTEND:20221005T100000Z
+LAST-MODIFIED:20220706T161302Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221005T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221019T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Distanciel
+DTEND:20221019T100000Z
+LAST-MODIFIED:20220706T161401Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221019T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221207T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi 1G58
+DTEND:20221207T110000Z
+LAST-MODIFIED:20220706T161610Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221207T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221214T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi 1G58
+DTEND:20221214T110000Z
+LAST-MODIFIED:20220706T161639Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221214T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221012T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Distanciel
+DTEND:20221012T100000Z
+LAST-MODIFIED:20220721T132124Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221012T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221109T090000
+CREATED:20220706T160412Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:0I10
+DTEND:20221109T110000Z
+LAST-MODIFIED:20220721T152143Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221109T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi
+TRANSP:OPAQUE
+UID:62rvjc5bgjt13isatkhumb0lpp@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220929T102113Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>salle 1I82 <br><u></u><br><u></u><a href="http://www-sop.inria.fr/asclepios/cours/MVA/">http://www-sop.inria.fr/asclepios/cours/MVA/</a><u></u><u></u></html-blob>
+DTEND:20221014T144500Z
+LAST-MODIFIED:20220929T102113Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221014T113000Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:351mlbv9uoimh3pcao0clvbf8f@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220217T163705Z
+SEQUENCE:3
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Intervenants : Marie Garin &amp\; Antoine MAZARGUIL<br>Amphi 0I10</html-blob>
+DTEND:20220926T093000Z
+LAST-MODIFIED:20220923T124831Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220926T073000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Statistiques
+TRANSP:TRANSPARENT
+UID:3da0l5j6mpkltf99p52r94ppik@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220217T164128Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi 1G58
+DTEND:20220930T110000Z
+LAST-MODIFIED:20220225T151625Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220930T070000Z
+STATUS:CONFIRMED
+SUMMARY:Réunion de rentrée - MVA 22/23
+TRANSP:OPAQUE
+UID:76uvl6kmdsul9v2om4ie6ourhs@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220920T085642Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>Intervenants : Marie Garin &amp\; Antoine MAZARGUIL<br>Amphi 0I10<u></u>
+DTEND:20220926T143000Z
+LAST-MODIFIED:20220923T124901Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220926T110000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Statistiques
+TRANSP:TRANSPARENT
+UID:50mv9615dqlc7rkg038ib9ilhn@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220602T144942Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20221217
+DTEND;VALUE=DATE:20230102
+DTSTAMP:20220930T131233Z
+LAST-MODIFIED:20220602T144942Z
+STATUS:CONFIRMED
+SUMMARY:Fermeture ENS Paris-Saclay
+TRANSP:TRANSPARENT
+UID:72g7lj8ct5ob08lhrg3milg44q@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220615T110139Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Intervenant : Stéphanie Allassonnière<br>&nbsp\;<br>Amphi 0I10</html-blob>
+DTEND:20220921T160000Z
+LAST-MODIFIED:20220901T153615Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220921T070000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Formation sciences de la santé et domaine médical / présentation track Santé
+TRANSP:TRANSPARENT
+UID:4vdnerk73ikooq7hc774n783a1@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221214T225959Z;BYDAY=WE
+CREATED:20220707T133524Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1X59
+DTEND:20221005T150000Z
+LAST-MODIFIED:20220708T114301Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221005T120000Z
+STATUS:CONFIRMED
+SUMMARY:I&I - Apprentissage profond et traitement du signal\, introduction et applications industrielles - T. Courtat
+TRANSP:OPAQUE
+UID:233hdmqjnhud7i2tarp7gaq71m@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220615T110313Z
+SEQUENCE:3
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Cours magistral</html-blob><br><html-blob>Intervenant : JC. Pesquet<br>Amphi 0I10</html-blob>
+DTEND:20220928T103000Z
+LAST-MODIFIED:20220913T165752Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220928T080000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Optimisation convexe
+TRANSP:TRANSPARENT
+UID:0450m8g5nfi073uuc3qj2k99fp@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T163052Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z14
+DTEND:20221115T170000Z
+LAST-MODIFIED:20220913T163052Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221115T130000Z
+STATUS:CONFIRMED
+SUMMARY:Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis
+TRANSP:OPAQUE
+UID:664loccss32bi49r074i7klokg@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220920T085433Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>Intervenant : Marie Garin<br>Amphi 0I10<u></u><u></u>
+DTEND:20220922T150000Z
+LAST-MODIFIED:20220920T085433Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220922T120000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Probabilités
+TRANSP:TRANSPARENT
+UID:7fq9157osq7n6p3n6b593jcbrm@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221025T110000
+CREATED:20220705T093702Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221024T120000Z
+LAST-MODIFIED:20220908T150120Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221024T100000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20230103T110000
+CREATED:20220705T093702Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:EXAMEN\n1Z34
+DTEND:20230109T110000Z
+LAST-MODIFIED:20220908T151856Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230109T090000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230110T225959Z;BYDAY=TU
+EXDATE;TZID=Europe/Paris:20230110T110000
+EXDATE;TZID=Europe/Paris:20221227T110000
+EXDATE;TZID=Europe/Paris:20221220T110000
+EXDATE;TZID=Europe/Paris:20221101T110000
+CREATED:20220705T093702Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221004T110000Z
+LAST-MODIFIED:20220705T105352Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221004T090000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221129T110000
+CREATED:20220705T093702Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221128T170000Z
+LAST-MODIFIED:20220707T100212Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221128T150000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221206T110000
+CREATED:20220705T093702Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221205T150000Z
+LAST-MODIFIED:20220707T100233Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221205T130000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221213T110000
+CREATED:20220705T093702Z
+SEQUENCE:1
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221212T150000Z
+LAST-MODIFIED:20220707T100251Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221212T130000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221011T110000
+CREATED:20220705T093702Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221011T080000Z
+LAST-MODIFIED:20220916T143444Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221011T060000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221018T110000
+CREATED:20220705T093702Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z56
+DTEND:20221017T093000Z
+LAST-MODIFIED:20220916T143553Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221017T073000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221108T110000
+CREATED:20220705T093702Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z34
+DTEND:20221108T100000Z
+LAST-MODIFIED:20220916T143642Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221108T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221115T110000
+CREATED:20220705T093702Z
+SEQUENCE:2
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z28
+DTEND:20221122T100000Z
+LAST-MODIFIED:20220916T143844Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221122T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction to statistical learning  N.Vayatis
+TRANSP:OPAQUE
+UID:6bm28747up3mns61akbj1g38u9@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221209T225959Z;BYDAY=FR
+CREATED:20220929T102326Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>salle 1E14<br><u></u><br><u></u><a href="http://www-sop.inria.fr/asclepios/cours/MVA/">http://www-sop.inria.fr/asclepios/cours/MVA/</a><u></u><u></u></html-blob>
+DTEND:20221209T154500Z
+LAST-MODIFIED:20220929T102326Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221209T123000Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:7edfn08980444vl4lji59tmns3@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220929T102747Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>salle 1N82<u></u><br><u></u><a href="https://www.google.com/url?q=http://www-sop.inria.fr/asclepios/cours/MVA/&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw2PztnNL9epXj23zjSmU-wl" target="_blank">http://www-sop.inria.fr/asclepios/cours/MVA/</a><u></u>
+DTEND:20221116T154500Z
+LAST-MODIFIED:20220929T102747Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221116T123000Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:1s1i943uugbk08hip0vnerud1o@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221006T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi Estaunié
+DTEND:20221006T100000Z
+LAST-MODIFIED:20220929T120659Z
+LOCATION:Télécom Paris\, 19 place Marguerite Perey\, 91120 Palaiseau\, France
+DTSTART:20221006T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221117T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<span>Amphi Estaunié</span>
+DTEND:20221117T110000Z
+LAST-MODIFIED:20220929T120741Z
+LOCATION:Télécom Paris\, 19 place Marguerite Perey\, 91120 Palaiseau\, France
+DTSTART:20221117T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T134918Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Amphi 1Z14</html-blob><br><html-blob>Séminaire<br><br><u></u></html-blob>
+DTEND:20221213T160000Z
+LAST-MODIFIED:20220622T145405Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221213T080000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J. Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:7o1m8d0b7cfcf1st32hc4n49gk@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220708T161435Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>salle 1N82</html-blob><br><html-blob><a href="http://www-sop.inria.fr/asclepios/cours/MVA/" id="ow492" __is_owner="true">http://www-sop.inria.fr/asclepios/cours/MVA/</a></html-blob>
+DTEND:20221104T154500Z
+LAST-MODIFIED:20220712T181517Z
+LOCATION:École normale supérieure Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221104T123000Z
+STATUS:CONFIRMED
+SUMMARY:Medical Image Analysis based on generative\, geometric and biophysical models -  H.Delingette\, X.Pennec
+TRANSP:OPAQUE
+UID:1v8tnu1h1mcn7hg4ceusmshqae@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221201T225959Z;BYDAY=TH
+EXDATE;TZID=Europe/Paris:20221124T090000
+EXDATE;TZID=Europe/Paris:20221110T090000
+CREATED:20220722T114801Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:9h-11h cours (salle 2001)\n11h-12h sur machines (salle 2005)
+DTEND:20221006T100000Z
+LAST-MODIFIED:20220914T164306Z
+LOCATION:Faculté de Médecine - Site Cochin - Université de Paris\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221006T070000Z
+STATUS:CONFIRMED
+SUMMARY:Geometric Data Analysis - J. Feydy
+TRANSP:OPAQUE
+UID:760r01aiqhhcslb20ruc9qtfel@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221124T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<span>Amphi Estaunié</span>
+DTEND:20221124T110000Z
+LAST-MODIFIED:20220929T120751Z
+LOCATION:Télécom Paris\, 19 place Marguerite Perey\, 91120 Palaiseau\, France
+DTSTART:20221124T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221201T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<span>Amphi Estaunié</span>
+DTEND:20221201T110000Z
+LAST-MODIFIED:20220929T120809Z
+LOCATION:Télécom Paris\, 19 place Marguerite Perey\, 91120 Palaiseau\, France
+DTSTART:20221201T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221027T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi Delmas
+DTEND:20221027T100000Z
+LAST-MODIFIED:20220929T163523Z
+LOCATION:Université Paris Cité\, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221027T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221215T225959Z;BYDAY=TH
+EXDATE;TZID=Europe/Paris:20221103T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DTEND:20221006T100000Z
+LAST-MODIFIED:20220614T152642Z
+LOCATION:Télécom Paris\, 19 place Marguerite Perey\, 91120 Palaiseau\, France
+DTSTART:20221006T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221013T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi Binet
+DTEND:20221013T100000Z
+LAST-MODIFIED:20220926T165022Z
+LOCATION:Université Paris Cité\, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221013T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221110T094500
+CREATED:20220622T075605Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>3h Cours magistral - Emilie CHOUZENOUX<br><br><u></u></html-blob>
+DTEND:20221110T114500Z
+LAST-MODIFIED:20220905T125936Z
+LOCATION:Centralesupélec\, 8-10 Rue Joliot Curie\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221110T084500Z
+STATUS:CONFIRMED
+SUMMARY:Foundations of distributed and large scale computing optimization -  E.Chouzenoux
+TRANSP:OPAQUE
+UID:5l605a8r98ikdbt8s89rptb78r@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221020T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi Binet
+DTEND:20221020T100000Z
+LAST-MODIFIED:20220926T165219Z
+LOCATION:Université Paris Cité\, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221020T070000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221214T225959Z;BYDAY=WE
+EXDATE;TZID=Europe/Paris:20221130T100000
+EXDATE;TZID=Europe/Paris:20221116T100000
+CREATED:20220628T150202Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>En distanciel <br></html-blob>
+DTEND:20221005T100000Z
+LAST-MODIFIED:20220628T150202Z
+DTSTART:20221005T080000Z
+STATUS:CONFIRMED
+SUMMARY:Reinforcement Learning  M. Pirotta
+TRANSP:OPAQUE
+UID:2fnq4c0akk60bm6060ba3ooaj2@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221110T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Cours\nAmphi Binet
+DTEND:20221110T110000Z
+LAST-MODIFIED:20220926T165313Z
+LOCATION:Université Paris Cité\, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221110T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221208T090000
+CREATED:20220614T152642Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:TP\nAmphi Binet
+DTEND:20221208T110000Z
+LAST-MODIFIED:20220926T165340Z
+LOCATION:Université Paris Cité\, 45 Rue des Saints-Pères\, 75006 Paris\, France
+DTSTART:20221208T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l'imagerie numérique Y.Gousseau\, J.Delon
+TRANSP:OPAQUE
+UID:0d26k87jjcf5egvd4h4uhc5atv@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221122T225959Z;BYDAY=TU
+EXDATE;TZID=Europe/Paris:20221101T124500
+CREATED:20220614T151326Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DTEND:20221004T134500Z
+LAST-MODIFIED:20220614T151326Z
+LOCATION:Jussieu - Université Campus Pierre et Marie Curie\, 4 Pl. Jussieu\, 75005 Paris\, France
+DTSTART:20221004T104500Z
+STATUS:CONFIRMED
+SUMMARY:3D computer vision  P.Monasse\, M.Aubry
+TRANSP:OPAQUE
+UID:5dj0ussg2svv20icd12avh0ode@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T134214Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Amphi 1Z14</html-blob><br><html-blob>Cours 3<br><u></u><u></u></html-blob>
+DTEND:20221102T120000Z
+LAST-MODIFIED:20220622T145142Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221102T100000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J. Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:0ftnm57orljubsl3oh9qllf32d@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220701T101630Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:Amphi 0I10
+DTEND:20220916T110000Z
+LAST-MODIFIED:20220902T124809Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220916T070000Z
+STATUS:CONFIRMED
+SUMMARY:Réunion de pré-rentrée étudiants du Track Industrie et Ingéniérie
+TRANSP:OPAQUE
+UID:5pl89l6pkq1tvjaktu5d3jh1jf@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T165835Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u><u></u>TD<br><u></u>Intervenant : JC. Pesquet\, Ségolène Martin<br>Amphi 0I10<u></u><u></u>
+DTEND:20220929T150000Z
+LAST-MODIFIED:20220913T165835Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220929T123000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Optimisation convexe
+TRANSP:TRANSPARENT
+UID:4ahi16u3oteno9pta8n9kkrlt1@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221028T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span><br>COURS 9h15 - 11h15 : <span>amphi LUTON </span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span><br><span>&nbsp\;</span><br><br><u></u></html-blob>
+DTEND:20221028T111500Z
+LAST-MODIFIED:20220829T124918Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221028T071500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+RECURRENCE-ID;TZID=Europe/Paris:20221118T091500
+CREATED:20220620T130454Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><span><br>COURS 9h15 - 11h15 : <span>amphi DIEULAFOY</span><br><font><span>TD/TP 11h15 - 13h15 : Salles 2001 et 2003 (2ème étage)</span></font></span><br><span>&nbsp\;</span><br><br><u></u></html-blob>
+DTEND:20221118T121500Z
+LAST-MODIFIED:20220829T124947Z
+LOCATION:Faculté de Médecine de l'université de Paris\, site Cochin\, 24 Rue du Faubourg Saint-Jacques\, 75014 Paris\, France
+DTSTART:20221118T081500Z
+STATUS:CONFIRMED
+SUMMARY:Computational statistics  S.Allassonnière
+TRANSP:OPAQUE
+UID:4mmi21i15ikdu1pr1tof7o9vfi@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T134744Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u>Amphi 1Z14</html-blob><br><html-blob>Cours 5<br><u></u></html-blob>
+DTEND:20221122T120000Z
+LAST-MODIFIED:20220622T145253Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221122T100000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J. Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:2dvkeqtofahthk9gnb5fd7kccj@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220622T135220Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob><u></u><u></u><u></u><span>TP 4</span><br><br>Salles 1S25 - 1S32 - 1S33<u></u><u></u><u></u></html-blob>
+DTEND:20221115T120000Z
+LAST-MODIFIED:20220622T135220Z
+LOCATION:École normale supérieure Paris-Saclay\, Avenue des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221115T100000Z
+STATUS:CONFIRMED
+SUMMARY:Analyse topologique de données J.Tierny\, F. Chazal
+TRANSP:OPAQUE
+UID:5nqmmb75ph5n2t63i2r6qv3ul4@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220920T085510Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>Intervenant : Marie Garin<br>Amphi 0I10<u></u><u></u>
+DTEND:20220923T150000Z
+LAST-MODIFIED:20220920T085510Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20220923T120000Z
+STATUS:CONFIRMED
+SUMMARY:Remise à niveau - Probabilités
+TRANSP:TRANSPARENT
+UID:57h7qitll3qgj0bdbth2bnihmg@google.com
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230210T225959Z;BYDAY=FR
+CREATED:20220924T164753Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<html-blob>Salle 3E34</html-blob><br><html-blob>Cours : 9h-11h<br>TD : 11h-12h</html-blob>
+DTEND:20230106T110000Z
+LAST-MODIFIED:20220926T172442Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20230106T080000Z
+STATUS:CONFIRMED
+SUMMARY:Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi
+TRANSP:OPAQUE
+UID:7v9ar3thkvc9p8hfq44c1665ce@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220628T151629Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:<u></u>En distanciel <br><u></u>
+DTEND:20221010T100000Z
+LAST-MODIFIED:20220628T151629Z
+DTSTART:20221010T080000Z
+STATUS:CONFIRMED
+SUMMARY:Reinforcement Learning  M. Pirotta
+TRANSP:OPAQUE
+UID:7sncjbnrbnljmmc4eqql0pd3jr@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220913T163033Z
+SEQUENCE:0
+DTSTAMP:20220930T131233Z
+DESCRIPTION:1Z14
+DTEND:20221027T160000Z
+LAST-MODIFIED:20220913T163033Z
+LOCATION:École normale supérieure Paris-Saclay - Université Paris-Saclay\, 4 Av. des Sciences\, 91190 Gif-sur-Yvette\, France
+DTSTART:20221027T120000Z
+STATUS:CONFIRMED
+SUMMARY:Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis
+TRANSP:OPAQUE
+UID:5kmp9vhguv6surr7jp1ck39r71@google.com
+END:VEVENT
+METHOD:PUBLISH
+END:VCALENDAR
