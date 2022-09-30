@@ -5,7 +5,7 @@ url = "https://calendar.google.com/calendar/ical/duk0c7vf58cb9s64mn5ebkgh4c%40gr
 
 unfollowed_courses = [
     "Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille",
-    "Introduction to statistical learning N.Vayatis",
+    "Introduction to statistical learning",
     # "Convex optimization A.d'Aspremont",
     # "Computational optimal transport G.Peyré",
     "Analyse topologique de données J. Tierny, F. Chazal",
