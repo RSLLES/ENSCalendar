@@ -42,7 +42,7 @@ def main():
 
     c.events = set(filter(is_event_a_unfollowed_course, c.events))
     
-    with open('calendar.ics', 'w') as my_file:
+    with open('calendar.ics', 'w', encoding='utf-8') as my_file:
         my_file.writelines(c.serialize_iter())
 
 if __name__ == '__main__': 
