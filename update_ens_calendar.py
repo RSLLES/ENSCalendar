@@ -5,6 +5,24 @@ url = "https://calendar.google.com/calendar/ical/duk0c7vf58cb9s64mn5ebkgh4c%40gr
 
 unfollowed_courses = [
     "Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille",
+    "Introduction to statistical learning N.Vayatis",
+    # "Convex optimization A.d'Aspremont",
+    # "Computational optimal transport G.Peyré",
+    "Analyse topologique de données J. Tierny, F. Chazal",
+    # "3D computer vision P.Monasse, M.Aubry",
+    "Reconnaissance d'objets et vision artificielle",
+    "Introduction to Probabilistic Graphical Models",
+    # "Reinforcement Learning M. Pirotta",
+    "Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat",
+    "Image denoising : the human machine competition JM.Morel, G.Facciolo, P.Arias",
+    "Fondamentaux de la recherche reproductible et du logiciel libre - M. Colom Barco",
+    "Medical Image Analysis based on generative, geometric and biophysical models - H.Delingette, X.Pennec",
+    "Geometric Data Analysis - J. Feydy",
+    "Introduction à l'imagerie numérique Y.Gousseau, J.Delon",
+    "Foundations of distributed and large scale computing optimization - E.Chouzenoux",
+    "Sub-pixel image processing Lionel Moisan",
+    "Computational statistics S.Allassonnière",
+    "Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin",
     "Deep learning V.Lepetit / M. Vakalopoulou",
 ]
 
