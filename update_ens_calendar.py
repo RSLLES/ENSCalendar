@@ -20,7 +20,7 @@ unfollowed_courses = [
     "Geometric Data Analysis - J. Feydy",
     "Introduction à l'imagerie numérique Y.Gousseau, J.Delon",
     "Foundations of distributed and large scale computing optimization - E.Chouzenoux",
-    "Sub-pixel image processing Lionel Moisan",
+    "Sub-pixel image processing",
     "Computational statistics S.Allassonnière",
     "Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin",
     "Deep learning V.Lepetit / M. Vakalopoulou",
