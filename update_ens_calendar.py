@@ -10,7 +10,7 @@ unfollowed_courses = [
     # "Computational optimal transport G.Peyré",
     "Analyse topologique de données",
     # "3D computer vision P.Monasse, M.Aubry",
-    "Reconnaissance d'objets et vision artificielle",
+    "Object recognition and computer vision",
     "Introduction to Probabilistic Graphical Models",
     # "Reinforcement Learning M. Pirotta",
     "Apprentissage profond et traitement du signal, introduction et applications industrielles",
@@ -21,11 +21,11 @@ unfollowed_courses = [
     "Introduction à l'imagerie numérique",
     "Foundations of distributed and large scale computing optimization",
     "Sub-pixel image processing",
-    "Computational statistics",
+    # "Computational statistics",
     "Responsible Machine Learning",
     "Deep learning V.Lepetit / M. Vakalopoulou",
     "Advanced learning for text and graph data",
-    "Introduction à l'apprentissage statistique pour les géosciences",
+    "Introduction à l’apprentissage statistique pour les géosciences",
 ]
 
 def main():
