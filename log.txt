@@ -7,8 +7,8 @@ Keeping Remise à niveau - Probabilités at 2022-09-23 12:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-06 09:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-12-14 13:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-13 09:00:00
-Removing Computational statistics  S.Allassonnière at 2022-12-09 09:15:00
-Removing Computational statistics  S.Allassonnière at 2022-12-16 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-12-09 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-12-16 09:15:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-20 09:00:00
 Keeping Remise à niveau - Statistiques at 2022-09-27 11:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-10 09:00:00
@@ -30,6 +30,7 @@ Removing Sub-pixel image processing  Lionel Moisan at 2022-11-24 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-12-01 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-12-08 13:30:00
 Keeping Réunion de pré-rentrée étudiants du Track Industrie et Ingéniérie at 2022-09-16 07:00:00
+Keeping 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
 Keeping 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
 Keeping Fermeture ENS Paris-Saclay at 2022-12-17 00:00:00
 Keeping Remise à niveau - Statistiques at 2022-09-26 11:00:00
@@ -57,7 +58,9 @@ Removing I&I - Application de l'analyse de données, des statistiques descriptiv
 Keeping Forum des stages MVA  at 2022-11-30 08:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-15 13:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-09 12:30:00
-Keeping Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-04 16:15:00
+Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-04 16:15:00
+Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-11 16:15:00
+Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-18 16:15:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-22 10:00:00
 Keeping Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-27 13:30:00
 Keeping Deep learning for medical imaging  O.Colliot ; M. Vakalopoulou at 2023-01-12 13:45:00
@@ -97,11 +100,10 @@ Keeping Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 20
 Keeping Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-29 13:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-22 09:00:00
-Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 14:00:00
-Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 14:00:00
-Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 14:00:00
+Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 14:00:00
+Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 14:00:00
+Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 14:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-22 13:00:00
-Keeping Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2023-01-16 15:15:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-09 12:45:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-17 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-24 09:00:00
@@ -112,15 +114,15 @@ Keeping Remise à niveau - Statistiques at 2022-09-27 07:30:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 08:00:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-10-18 09:00:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-11-29 10:00:00
-Removing Computational statistics  S.Allassonnière at 2022-10-07 09:15:00
-Removing Computational statistics  S.Allassonnière at 2022-10-07 09:15:00
-Removing Computational statistics  S.Allassonnière at 2022-10-14 09:15:00
-Removing Computational statistics  S.Allassonnière at 2022-10-21 09:15:00
-Removing Computational statistics  S.Allassonnière at 2022-10-28 09:15:00
-Removing Computational statistics  S.Allassonnière at 2022-11-18 09:15:00
-Removing Computational statistics  S.Allassonnière at 2022-11-25 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-10-07 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-10-07 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-10-14 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-10-21 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-10-28 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-11-18 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-11-25 09:15:00
 Keeping Remise à niveau - Formation sciences de la santé et domaine médical / présentation track Santé at 2022-09-21 07:00:00
-Removing Computational statistics  S.Allassonnière at 2022-12-02 09:15:00
+Keeping Computational statistics  S.Allassonnière at 2022-12-02 09:15:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 12:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
 Removing Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00
@@ -136,7 +138,7 @@ Removing Foundations of distributed and large scale computing optimization -  E.
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-03 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-17 09:45:00
-Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 09:00:00
+Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 09:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-17 13:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-10-27 12:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 08:00:00
