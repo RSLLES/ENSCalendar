@@ -1,5 +1,7 @@
-from ics import Calendar
+import re
 import requests
+from ics import Calendar
+from bs4 import BeautifulSoup
 
 url = "https://calendar.google.com/calendar/ical/duk0c7vf58cb9s64mn5ebkgh4c%40group.calendar.google.com/public/basic.ics"
 
@@ -41,6 +43,10 @@ def main():
         return True
 
     c.events = set(filter(is_event_a_unfollowed_course, c.events))
+
+    regex = re.compile(r"<br/?>", re.IGNORECASE)
+    for ev in c.events:
+        ev.description = BeautifulSoup(re.sub(regex, '\n', ev.description), "html.parser").text
     
     with open('calendar.ics', 'w', encoding='utf-8') as my_file:
         my_file.writelines(c.serialize_iter())
