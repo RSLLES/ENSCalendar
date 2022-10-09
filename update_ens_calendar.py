@@ -28,6 +28,8 @@ unfollowed_courses = [
     "Deep learning V.Lepetit / M. Vakalopoulou",
     "Advanced learning for text and graph data",
     "Introduction à l’apprentissage statistique pour les géosciences",
+    "Méthodes mathématiques pour les neurosciences",
+    "Séminaire Turing",
 ]
 
 def main():
