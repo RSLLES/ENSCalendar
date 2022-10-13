@@ -88,6 +88,7 @@ Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-10-04 09:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-02 10:00:00
 Keeping Computational optimal transport  G.Peyré at 2022-11-07 09:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-05 12:45:00
+Keeping Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-16 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-04 12:30:00
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-11-02 14:00:00
@@ -96,16 +97,19 @@ Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 08:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-05 10:00:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
-Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-20 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-27 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-03 09:45:00
+Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
 Removing ANNULE - Introduction to statistical learning  N.Vayatis at 2022-10-11 08:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-10-17 12:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-26 11:30:00
 Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-20 07:00:00
 Keeping Réunion de rentrée - MVA 22/23 at 2022-09-30 07:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-21 09:00:00
 Removing RR - Fondamentaux de la recherche reproductible et du logiciel libre - M. Colom Barco at 2022-10-05 14:30:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-07 09:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-14 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-10-05 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-10-19 09:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-29 13:00:00
@@ -122,7 +126,12 @@ Removing Introduction à l’apprentissage statistique pour les géosciences - J
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 14:00:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 14:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-14 09:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-17 09:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-24 09:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-31 09:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-07 09:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-14 09:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-22 13:00:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-09 12:45:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-17 09:00:00
