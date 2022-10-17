@@ -11,7 +11,7 @@ unfollowed_courses = [
     # "Convex optimization A.d'Aspremont",
     # "Computational optimal transport G.Peyré",
     "Analyse topologique de données",
-    "3D computer vision P.Monasse, M.Aubry",
+    "3D computer vision",
     "Object recognition and computer vision",
     "Introduction to Probabilistic Graphical Models",
     # "Reinforcement Learning M. Pirotta",
