@@ -59,6 +59,7 @@ Removing Introduction to statistical learning  N.Vayatis at 2022-11-22 09:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-28 13:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-12-16 14:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-14 14:00:00
+Keeping RR - Projet recherche reproductible - M. Colom Barco at 2023-01-12 14:30:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-12-06 10:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-10-04 09:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-02 12:30:00
@@ -111,10 +112,10 @@ Removing Medical Image Analysis based on generative, geometric and biophysical m
 Keeping Problèmes inverses et imagerie : approches statistiques et stochastiques  J.Garnier at 2023-01-13 09:00:00
 Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-20 07:00:00
 Keeping Réunion de rentrée - MVA 22/23 at 2022-09-30 07:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-14 10:00:00
-Removing RR - Fondamentaux de la recherche reproductible et du logiciel libre - M. Colom Barco at 2022-10-05 14:30:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-21 10:00:00
+Removing RR - Fondamentaux de la recherche reproductible et du logiciel libre - M. Colom Barco at 2022-10-05 14:30:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-07 10:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-14 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-10-05 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-10-19 09:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-29 13:00:00
@@ -135,8 +136,8 @@ Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-17 09:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-24 09:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-31 09:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-14 09:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-07 10:00:00
+Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-14 10:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-22 13:00:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-09 12:45:00
 Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-02-27 14:00:00
