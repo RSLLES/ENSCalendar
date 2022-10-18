@@ -36,10 +36,10 @@ Removing Sub-pixel image processing  Lionel Moisan at 2022-12-01 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-12-08 13:30:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2022-12-13 11:00:00
 Keeping Réunion de pré-rentrée étudiants du Track Industrie et Ingéniérie at 2022-09-16 07:00:00
-Keeping 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
-Keeping 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
-Keeping 3D computer vision  P.Monasse, M.Aubry at 2022-10-11 12:45:00
-Keeping 3D computer vision  P.Monasse, M.Aubry at 2022-10-18 12:45:00
+Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
+Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
+Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-11 12:45:00
+Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-18 12:45:00
 Keeping Théorie de la détection et ses applications industrielles / Detection Theory and Industrial Applications- J-M. Morel, R. Grompone at 2023-01-05 14:00:00
 Keeping Fermeture ENS Paris-Saclay at 2022-12-17 00:00:00
 Keeping Remise à niveau - Statistiques at 2022-09-26 11:00:00
@@ -52,10 +52,10 @@ Removing Introduction to statistical learning  N.Vayatis at 2022-12-05 14:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-12-12 14:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-10-24 12:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2023-01-09 10:00:00
-Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-10-17 09:30:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-08 09:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-22 09:00:00
+Removing ANNULE - Introduction to statistical learning  N.Vayatis at 2022-10-11 08:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-28 13:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-12-16 14:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-14 14:00:00
@@ -106,9 +106,8 @@ Removing Foundations of distributed and large scale computing optimization -  E.
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-27 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-03 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
-Removing ANNULE - Introduction to statistical learning  N.Vayatis at 2022-10-11 08:00:00
-Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-10-17 12:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-26 11:30:00
+Removing ANNULE - Analyse topologique de données J. Tierny, F. Chazal at 2022-10-17 12:00:00
 Keeping Problèmes inverses et imagerie : approches statistiques et stochastiques  J.Garnier at 2023-01-13 09:00:00
 Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-20 07:00:00
 Keeping Réunion de rentrée - MVA 22/23 at 2022-09-30 07:00:00
@@ -163,6 +162,7 @@ Keeping Computational statistics  S.Allassonnière at 2022-12-02 09:15:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 12:00:00
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-15 08:00:00
+Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
 Removing Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00
 Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-19 07:00:00
