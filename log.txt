@@ -96,8 +96,10 @@ Removing Medical Image Analysis based on generative, geometric and biophysical m
 Keeping Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-16 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-04 13:00:00
+Keeping Imagerie fonctionnelle cérébrale et interface cerveau machine  B.Thirion, T.Papadopoulo at 2023-01-13 09:30:00
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-11-02 14:00:00
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-12-14 14:00:00
+Keeping Imagerie fonctionnelle cérébrale et interface cerveau machine  B.Thirion, T.Papadopoulo at 2023-03-17 09:30:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-10-25 07:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 08:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-05 10:00:00
