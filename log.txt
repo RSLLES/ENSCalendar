@@ -11,14 +11,14 @@ Removing Séminaire Turing at 2022-10-19 17:45:00
 Keeping Remise à niveau - Probabilités at 2022-09-23 12:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-06 09:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-12-14 13:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-20 09:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-06 09:00:00
 Keeping Computational statistics  S.Allassonnière at 2022-12-09 09:15:00
 Keeping Computational statistics  S.Allassonnière at 2022-12-16 09:15:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-10 09:00:00
-Keeping Remise à niveau - Statistiques at 2022-09-27 11:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-08 09:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-06 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-17 09:00:00
+Keeping Remise à niveau - Statistiques at 2022-09-27 11:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-24 09:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-01 09:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-13 09:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-10 08:00:00
 Removing I&I - Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille at 2022-10-03 16:00:00
 Keeping Remise à niveau - Probabilités at 2022-09-23 08:00:00
@@ -143,10 +143,10 @@ Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-09 12:45:00
 Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-02-27 14:00:00
 Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-03-27 14:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-24 09:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-01 09:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-20 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-27 09:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-13 09:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-10 09:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-08 09:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 12:30:00
 Keeping Remise à niveau - Statistiques at 2022-09-27 07:30:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 08:00:00
@@ -163,6 +163,7 @@ Keeping Remise à niveau - Formation sciences de la santé et domaine médical /
 Keeping Computational statistics  S.Allassonnière at 2022-12-02 09:15:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 12:00:00
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:00:00
+Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-15 08:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
