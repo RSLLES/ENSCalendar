@@ -9,7 +9,7 @@ unfollowed_courses = [
     "Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique",
     "Introduction to statistical learning",
     # "Convex optimization A.d'Aspremont",
-    # "Computational optimal transport G.Peyré",
+    "Computational optimal transport",
     "Analyse topologique de données",
     "3D computer vision",
     "Object recognition and computer vision",
@@ -19,7 +19,7 @@ unfollowed_courses = [
     "Image denoising : the human machine competition",
     "Fondamentaux de la recherche reproductible et du logiciel libre",
     "Medical Image Analysis based on generative, geometric and biophysical models",
-    "Geometric Data Analysis",
+    #"Geometric Data Analysis",
     "Introduction à l'imagerie numérique",
     "Foundations of distributed and large scale computing optimization",
     "Sub-pixel image processing",
@@ -28,7 +28,7 @@ unfollowed_courses = [
     "Deep learning V.Lepetit / M. Vakalopoulou",
     "Advanced learning for text and graph data",
     "Introduction à l’apprentissage statistique pour les géosciences",
-    # "Méthodes mathématiques pour les neurosciences",
+    "Méthodes mathématiques pour les neurosciences",
     "Séminaire Turing",
 ]
 
