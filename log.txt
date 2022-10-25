@@ -20,7 +20,7 @@ Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-01
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-13 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-20 09:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-10 08:00:00
-Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-12-14 09:00:00
+Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-12-14 13:00:00
 Removing I&I - Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille at 2022-10-03 16:00:00
 Keeping Remise à niveau - Probabilités at 2022-09-23 08:00:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-12-15 13:30:00
@@ -41,6 +41,7 @@ Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
 Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
 Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-11 12:45:00
 Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-18 12:45:00
+Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-25 12:45:00
 Keeping Théorie de la détection et ses applications industrielles / Detection Theory and Industrial Applications- J-M. Morel, R. Grompone at 2023-01-05 14:00:00
 Keeping Fermeture ENS Paris-Saclay at 2022-12-17 00:00:00
 Keeping Remise à niveau - Statistiques at 2022-09-26 11:00:00
@@ -51,12 +52,12 @@ Removing Introduction to statistical learning  N.Vayatis at 2022-11-21 14:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-28 16:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-12-05 14:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-12-12 14:00:00
-Removing Introduction to statistical learning  N.Vayatis at 2022-10-24 12:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2023-01-09 10:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-10-17 09:30:00
-Removing Introduction to statistical learning  N.Vayatis at 2022-11-22 09:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-08 09:00:00
+Removing Introduction to statistical learning  N.Vayatis at 2022-11-22 09:00:00
 Removing ANNULE - Introduction to statistical learning  N.Vayatis at 2022-10-11 08:00:00
+Removing ANNULE - Introduction to statistical learning  N.Vayatis at 2022-10-24 12:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-28 13:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-12-16 14:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-14 14:00:00
@@ -77,7 +78,7 @@ Removing Reconnaissance d’objets et vision artificielle / Object recognition a
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-18 16:15:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-17 09:45:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-22 10:00:00
-Keeping Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-27 13:30:00
+Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-27 13:30:00
 Keeping Deep learning for medical imaging  O.Colliot ; M. Vakalopoulou at 2023-01-12 13:45:00
 Keeping Deep learning for medical imaging  O.Colliot ; M. Vakalopoulou at 2023-01-19 13:45:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-07 14:00:00
@@ -92,7 +93,7 @@ Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-11-15 10:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-10-04 09:00:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-10-04 09:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-02 10:00:00
-Keeping Computational optimal transport  G.Peyré at 2022-11-07 09:00:00
+Removing Computational optimal transport  G.Peyré at 2022-11-07 09:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-12-05 12:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-05 12:45:00
 Keeping Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
@@ -126,8 +127,8 @@ Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Matté
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-11-23 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-10-12 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-11-09 09:00:00
-Keeping Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
-Keeping Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
+Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
+Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 14:00:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 14:00:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 14:00:00
@@ -167,9 +168,8 @@ Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:1
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-15 08:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
-Removing Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00
-Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-19 07:00:00
-Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-12-09 13:30:00Traceback (most recent call last):
+Keeping Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00
+Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-19 07:00:00Traceback (most recent call last):
   File "/usr/lib/python3.7/runpy.py", line 193, in _run_module_as_main
     "__main__", mod_spec)
   File "/usr/lib/python3.7/runpy.py", line 85, in _run_code
@@ -182,6 +182,7 @@ Removing Medical Image Analysis based on generative, geometric and biophysical m
     return _compile(pattern, flags).sub(repl, string, count)
 TypeError: expected string or bytes-like object
 
+Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-12-09 13:30:00
 Keeping Méthodes de séparation de sources pour l'analyse de données en astrophysique - J.BOBIN, C.KERVAZO at 2023-01-10 13:30:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
