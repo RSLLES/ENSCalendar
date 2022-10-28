@@ -77,6 +77,7 @@ Removing Reconnaissance d’objets et vision artificielle / Object recognition a
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-11 16:15:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-18 16:15:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-17 09:45:00
+Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-22 10:00:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-27 13:30:00
 Keeping Deep learning for medical imaging  O.Colliot ; M. Vakalopoulou at 2023-01-12 13:45:00
@@ -167,9 +168,7 @@ Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:0
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-15 08:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
-Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
-Keeping Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00
-Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-19 07:00:00Traceback (most recent call last):
+Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00Traceback (most recent call last):
   File "/usr/lib/python3.7/runpy.py", line 193, in _run_module_as_main
     "__main__", mod_spec)
   File "/usr/lib/python3.7/runpy.py", line 85, in _run_code
@@ -182,6 +181,8 @@ Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-0
     return _compile(pattern, flags).sub(repl, string, count)
 TypeError: expected string or bytes-like object
 
+Keeping Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00
+Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-19 07:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-12-09 13:30:00
 Keeping Méthodes de séparation de sources pour l'analyse de données en astrophysique - J.BOBIN, C.KERVAZO at 2023-01-10 13:30:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
