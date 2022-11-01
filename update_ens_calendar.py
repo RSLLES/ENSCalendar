@@ -27,7 +27,7 @@ unfollowed_courses = [
     "Responsible Machine Learning",
     "Deep learning V.Lepetit / M. Vakalopoulou",
     "Advanced learning for text and graph data",
-    "Introduction à l’apprentissage statistique pour les géosciences",
+    "Introduction à l'apprentissage statistique pour les géosciences",
     "Méthodes mathématiques pour les neurosciences",
     "Séminaire Turing",
 ]
@@ -48,7 +48,8 @@ def main():
 
     regex = re.compile(r"<br/?>", re.IGNORECASE)
     for ev in c.events:
-        ev.description = BeautifulSoup(re.sub(regex, '\n', ev.description), "html.parser").text
+        if ev.description is not None:
+            ev.description = BeautifulSoup(re.sub(regex, '\n', ev.description), "html.parser").text
     
     with open('calendar.ics', 'w', encoding='utf-8') as my_file:
         my_file.writelines(c.serialize_iter())
