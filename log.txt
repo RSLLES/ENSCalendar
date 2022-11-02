@@ -130,9 +130,9 @@ Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Matté
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-11-09 09:00:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
-Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 14:00:00
-Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 14:00:00
-Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 14:00:00
+Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 14:00:00
+Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 14:00:00
+Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 14:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-17 09:00:00
@@ -168,25 +168,13 @@ Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:0
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
-Keeping Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00Traceback (most recent call last):
-  File "/usr/lib/python3.7/runpy.py", line 193, in _run_module_as_main
-    "__main__", mod_spec)
-  File "/usr/lib/python3.7/runpy.py", line 85, in _run_code
-    exec(code, run_globals)
-  File "/home/romain/ENSCalendar/update_ens_calendar.py", line 57, in <module>
-    main()
-  File "/home/romain/ENSCalendar/update_ens_calendar.py", line 51, in main
-    ev.description = BeautifulSoup(re.sub(regex, '\n', ev.description), "html.parser").text
-  File "/usr/lib/python3.7/re.py", line 192, in sub
-    return _compile(pattern, flags).sub(repl, string, count)
-TypeError: expected string or bytes-like object
-
+Keeping Geometric Data Analysis - J. Feydy at 2022-10-06 09:00:00
 Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-19 07:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-12-09 13:30:00
 Keeping Méthodes de séparation de sources pour l'analyse de données en astrophysique - J.BOBIN, C.KERVAZO at 2023-01-10 13:30:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
-Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 09:00:00
+Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 09:00:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-10-11 09:00:00
 Keeping Numerical PDEs for image analysis - J-M. MIREBEAU at 2023-01-11 09:30:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-17 13:00:00
