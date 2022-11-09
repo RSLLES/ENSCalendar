@@ -76,13 +76,13 @@ Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-15 13:00:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-12-08 09:00:00
-Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-17 09:45:00
+Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:00:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-04 16:15:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-11 16:15:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-18 16:15:00
-Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-09 12:30:00
+Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Keeping Sequential learning - P.Gaillard ; R.Degenne at 2023-03-17 09:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-22 10:00:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-27 13:30:00
