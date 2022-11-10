@@ -18,24 +18,26 @@ Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-01
 Keeping Remise à niveau - Statistiques at 2022-09-27 11:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-13 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-20 09:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-10 09:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-08 09:00:00
+Removing Deep learning V.Lepetit / M. Vakalopoulou at 2023-01-06 08:00:00
+Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-20 16:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-10 08:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-12-14 13:00:00
 Removing I&I - Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille at 2022-10-03 16:00:00
 Keeping Remise à niveau - Probabilités at 2022-09-23 08:00:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-11-29 10:00:00
-Removing Sub-pixel image processing  Lionel Moisan at 2022-12-15 13:30:00
+Removing ANNULE - Sub-pixel image processing  Lionel Moisan at 2022-11-10 13:30:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-12-13 08:00:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-06 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-06 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-13 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-20 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-27 13:30:00
-Removing Sub-pixel image processing  Lionel Moisan at 2022-11-10 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-11-17 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-11-24 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-12-01 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-12-08 13:30:00
+Removing Sub-pixel image processing  Lionel Moisan at 2022-12-15 13:30:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-14 13:00:00
 Keeping Réunion de pré-rentrée étudiants du Track Industrie et Ingéniérie at 2022-09-16 07:00:00
 Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-04 12:45:00
@@ -103,6 +105,7 @@ Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-02 10:0
 Removing Computational optimal transport  G.Peyré at 2022-11-07 09:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-12-05 12:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-05 12:45:00
+Removing ANNULE - Deep learning V.Lepetit / M. Vakalopoulou at 2022-11-15 09:00:00
 Keeping Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-16 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-04 13:00:00
@@ -111,8 +114,12 @@ Removing I&I - Apprentissage profond et traitement du signal, introduction et ap
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-12-14 14:00:00
 Keeping Imagerie fonctionnelle cérébrale et interface cerveau machine  B.Thirion, T.Papadopoulo at 2023-03-17 09:30:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-10-25 07:00:00
+Keeping I&I - The machine intelligence of images - F. Guichard at 2023-01-27 10:00:00
+Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-03 10:00:00
+Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-10 10:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 08:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-05 10:00:00
+Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-17 10:00:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-20 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-27 09:45:00
@@ -150,12 +157,15 @@ Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-14 10:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-21 10:00:00
 Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-07 10:00:00
+Keeping I&I - The machine intelligence of images - F. Guichard at 2023-01-27 13:30:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-22 13:00:00
+Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-10 13:30:00
+Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-17 13:30:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-09 12:45:00
 Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-02-27 14:00:00
 Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-03-27 14:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-08 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-27 09:00:00
+Removing ANNULE - Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-10 09:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 12:30:00
 Keeping Remise à niveau - Statistiques at 2022-09-27 07:30:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 08:00:00
