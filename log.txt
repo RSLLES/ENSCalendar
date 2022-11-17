@@ -167,7 +167,7 @@ Keeping I&I - The machine intelligence of images - F. Guichard at 2023-01-27 13:
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-22 13:00:00
 Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-10 13:30:00
 Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-17 13:30:00
-Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-05-20 10:00:00
+Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-05-30 10:00:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-09 12:45:00
 Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-02-27 14:00:00
 Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-03-27 14:00:00
