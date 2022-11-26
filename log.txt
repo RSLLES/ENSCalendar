@@ -87,6 +87,7 @@ Removing Medical Image Analysis based on generative, geometric and biophysical m
 Removing I&I - Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille at 2022-10-03 08:30:00
 Keeping Forum des stages MVA  at 2022-11-30 08:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-29 13:00:00
+Keeping Nuages de points et modélisation 3D  F.Goulette, T.Boubekeur, J-E.Deschaud at 2023-01-12 13:45:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-15 13:00:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-12-08 09:00:00
