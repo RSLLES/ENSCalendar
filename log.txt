@@ -135,6 +135,7 @@ Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-10 10:
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 08:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-05 10:00:00
 Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-17 10:00:00
+Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2023-01-11 09:00:00
 Keeping Remote sensing data: from sensor to large-scale geospatial data exploitation  F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt at 2023-01-10 09:00:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-20 09:45:00
