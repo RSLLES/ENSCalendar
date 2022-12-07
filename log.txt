@@ -8,7 +8,7 @@ Removing I&I - Apprentissage profond et traitement du signal, introduction et ap
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-10-05 14:00:00
 Removing ANNULE - I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-10-12 14:00:00
 Keeping Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-04-05 11:00:00
-Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-02-28 11:00:00
+Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-03-02 11:00:00
 Removing Séminaire Turing at 2022-10-19 17:45:00
 Keeping Remise à niveau - Probabilités at 2022-09-23 12:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-06 09:00:00
@@ -44,6 +44,7 @@ Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-10 08:00:00
 Removing I&I - Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille at 2022-10-03 16:00:00
 Keeping Remise à niveau - Probabilités at 2022-09-23 08:00:00
+Keeping Apprentissage Profond pour la Restauration et la Synthèse d'Images - Deep Learning for Image Restoration and Synthesis -  A.Almansa, S.Ladjal, A.Newson at 2023-01-17 13:30:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-11-29 10:00:00
 Removing ANNULE - Sub-pixel image processing  Lionel Moisan at 2022-11-10 13:30:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-12-13 08:00:00
@@ -86,7 +87,7 @@ Removing Introduction to statistical learning  N.Vayatis at 2022-11-08 09:00:00
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-22 09:00:00
 Removing ANNULE - Introduction to statistical learning  N.Vayatis at 2022-10-11 08:00:00
 Removing ANNULE - Introduction to statistical learning  N.Vayatis at 2022-10-24 12:00:00
-Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-01-31 11:00:00
+Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-01-24 11:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-28 13:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-12-16 14:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-14 14:00:00
@@ -119,10 +120,10 @@ Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou
 Keeping Deep learning for medical imaging  O.Colliot ; M. Vakalopoulou at 2023-01-26 13:45:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-14 12:00:00
 Keeping Modélisation en neuroscience - JP.Nadal at 2023-01-10 09:30:00
-Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-16 09:30:00
-Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-21 12:00:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-02 09:30:00
+Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-21 12:00:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-09 09:30:00
+Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-05 09:30:00
 Keeping Remise à niveau - Statistiques at 2022-09-26 07:30:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2022-11-29 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-19 12:45:00
@@ -236,12 +237,12 @@ Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-0
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-12-09 13:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-12-09 13:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-05 09:30:00
-Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-05 09:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-12 09:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-19 09:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-26 09:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-02 09:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-09 09:30:00
+Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-16 09:30:00
 Keeping Méthodes de séparation de sources pour l'analyse de données en astrophysique - J.BOBIN, C.KERVAZO at 2023-01-10 13:30:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
