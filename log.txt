@@ -206,8 +206,8 @@ Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F.
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-23 08:00:00
 Removing ANNULE - Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-10 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-24 09:00:00
-Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-08 09:00:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-03-28 10:00:00
+Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-12-08 09:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 12:30:00
 Keeping Remise à niveau - Statistiques at 2022-09-27 07:30:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 08:00:00
