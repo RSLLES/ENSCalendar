@@ -164,6 +164,7 @@ Removing Foundations of distributed and large scale computing optimization -  E.
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-03 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-18 13:00:00
+Keeping Graphs in machine learning D. Calandriello, M.Valko at 2023-01-16 16:00:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2022-11-02 09:00:00
 Keeping Deep learning in practice  G.Charpiat at 2023-01-24 09:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-26 11:30:00
