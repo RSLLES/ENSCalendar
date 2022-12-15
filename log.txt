@@ -43,7 +43,6 @@ Keeping Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot a
 Keeping I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-01-20 08:30:00
 Keeping I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-02-03 08:30:00
 Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-20 16:00:00
-Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-27 16:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-10 08:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-01-25 16:30:00
 Removing I&I - Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille at 2022-10-03 16:00:00
@@ -108,12 +107,12 @@ Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-12-08 09:00:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-17 09:45:00
-Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:00:00
+Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-09 12:30:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-04 16:15:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-11 16:15:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-18 16:15:00
-Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-09 12:30:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
+Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-27 16:00:00
 Keeping Audio signal processing - Time-frequency analysis  E.Bacry at 2023-01-11 09:30:00
 Keeping Sequential learning - P.Gaillard ; R.Degenne at 2023-03-17 09:00:00
 Keeping Séminaire Panorama Industrie & Ingenierie at 2023-02-01 16:30:00
@@ -238,6 +237,7 @@ Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:0
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
 Keeping Théorie des matrices aléatoires et apprentissage  R.Couillet, J.Najim at 2023-01-09 08:30:00
 Keeping Information et Physique Statistique -  S.Mallat at 2023-01-18 09:30:00
+Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:30:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-01-18 16:30:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
