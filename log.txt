@@ -237,8 +237,8 @@ Keeping Remise à niveau - Probabilités at 2022-09-22 12:00:00
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:00:00
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
 Keeping Théorie des matrices aléatoires et apprentissage  R.Couillet, J.Najim at 2023-01-09 08:30:00
-Keeping Information et Physique Statistique -  S.Mallat at 2023-01-18 09:30:00
 Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:30:00
+Keeping Modèles, Information et Physique Statistique -  S.Mallat at 2023-01-18 09:30:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-01-18 16:30:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
