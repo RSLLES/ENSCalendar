@@ -6,6 +6,10 @@ from bs4 import BeautifulSoup
 url = "https://calendar.google.com/calendar/ical/duk0c7vf58cb9s64mn5ebkgh4c%40group.calendar.google.com/public/basic.ics"
 
 unfollowed_courses = [
+    ##################
+    ### Semester 1 ###
+    ##################
+
     "Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique",
     "Introduction to statistical learning",
     # "Convex optimization A.d'Aspremont",
@@ -30,6 +34,34 @@ unfollowed_courses = [
     "Introduction à l'apprentissage statistique pour les géosciences",
     "Méthodes mathématiques pour les neurosciences",
     "Séminaire Turing",
+
+    ##################
+    ### Semester 2 ###
+    ##################
+
+    #"Modèles génératifs pour l'image",
+    "Fondements Théoriques de l'apprentissage profond",
+    "Deformable models and minimal path methods for image analysis",
+    "Graphs in machine learning",
+    "Audio signal Analysis, Indexing and Transformations",
+    "Deep learning in practice",
+    #"Biostatistics",
+    "Remote sensing data",
+    "Modélisation en neuroscience",
+    "Deep Reinforcement learning",
+    "Méthodes de séparation de sources pour l'analyse de données en astrophysique",
+    "Apprentissage Profond pour la Restauratio",
+    "Audio signal processing",
+    "Modèles, Information et Physique Statistique",
+    "Numerical PDEs for image analysis",
+    #"Kernel Methods for machine Learning",
+    "Géométrie et espace de formes",
+    "Bayesian machine learning",
+    "Nuages de points et modélisation 3D",
+    "Théorie de la détection",
+    "Problèmes inverses et imagerie",
+    "The machine intelligence of images",
+    #"Algorithms for speech and natural language processing",
 ]
 
 def main():
