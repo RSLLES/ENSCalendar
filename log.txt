@@ -1,6 +1,6 @@
 Removing Introduction to statistical learning  N.Vayatis at 2022-11-04 09:00:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-11-08 10:00:00
-Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-01-09 14:00:00
+Removing Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-01-09 14:00:00
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-10-05 14:00:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-16 12:45:00
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-10-19 14:00:00
@@ -8,7 +8,7 @@ Removing I&I - Apprentissage profond et traitement du signal, introduction et ap
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-10-05 14:00:00
 Removing ANNULE - I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-10-12 14:00:00
 Keeping Séminaire Panorama Industrie & Ingenierie at 2023-03-08 16:30:00
-Keeping Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-04-05 11:00:00
+Removing Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-04-05 11:00:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-03-02 11:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-02-15 16:30:00
 Removing Séminaire Turing at 2022-10-19 17:45:00
@@ -48,7 +48,7 @@ Keeping Séminaire Panorama Recherche reproductible at 2023-01-25 16:30:00
 Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-03-20 08:30:00
 Removing I&I - Application de l'analyse de données, des statistiques descriptives et de l'apprentissage automatique dans l'industrie aéronautique - J. Lacaille at 2022-10-03 16:00:00
 Keeping Remise à niveau - Probabilités at 2022-09-23 08:00:00
-Keeping Apprentissage Profond pour la Restauration et la Synthèse d'Images - Deep Learning for Image Restoration and Synthesis -  A.Almansa, S.Ladjal, A.Newson at 2023-01-17 13:30:00
+Removing Apprentissage Profond pour la Restauration et la Synthèse d'Images - Deep Learning for Image Restoration and Synthesis -  A.Almansa, S.Ladjal, A.Newson at 2023-01-17 13:30:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-11-29 10:00:00
 Removing ANNULE - Sub-pixel image processing  Lionel Moisan at 2022-11-10 13:30:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-12-13 08:00:00
@@ -75,7 +75,7 @@ Removing 3D computer vision  P.Monasse, M.Aubry at 2022-10-25 12:45:00
 Removing 3D computer vision  P.Monasse, M.Aubry at 2022-11-08 12:45:00
 Removing 3D computer vision  P.Monasse, M.Aubry at 2022-11-15 12:45:00
 Removing 3D computer vision  P.Monasse, M.Aubry at 2022-11-22 13:15:00
-Keeping Théorie de la détection et ses applications industrielles / Detection Theory and Industrial Applications- J-M. Morel, R. Grompone at 2023-01-05 14:00:00
+Removing Théorie de la détection et ses applications industrielles / Detection Theory and Industrial Applications- J-M. Morel, R. Grompone at 2023-01-05 14:00:00
 Keeping Fermeture ENS Paris-Saclay at 2022-12-17 00:00:00
 Keeping Remise à niveau - Statistiques at 2022-09-26 11:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
@@ -103,7 +103,7 @@ Removing I&I - Application de l'analyse de données, des statistiques descriptiv
 Keeping Forum des stages MVA  at 2022-11-30 08:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-03-13 16:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-31 07:00:00
-Keeping Nuages de points et modélisation 3D  F.Goulette, T.Boubekeur, J-E.Deschaud at 2023-01-12 13:45:00
+Removing Nuages de points et modélisation 3D  F.Goulette, T.Boubekeur, J-E.Deschaud at 2023-01-12 13:45:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-15 13:00:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-12-08 09:00:00
@@ -114,7 +114,7 @@ Removing Reconnaissance d’objets et vision artificielle / Object recognition a
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-18 16:15:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
 Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-27 16:00:00
-Keeping Audio signal processing - Time-frequency analysis  E.Bacry at 2023-01-11 09:30:00
+Removing Audio signal processing - Time-frequency analysis  E.Bacry at 2023-01-11 09:30:00
 Keeping Sequential learning - P.Gaillard ; R.Degenne at 2023-03-17 09:00:00
 Keeping Séminaire Panorama Industrie & Ingenierie at 2023-02-01 16:30:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-22 10:00:00
@@ -126,7 +126,7 @@ Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou
 Keeping Deep learning for medical imaging  O.Colliot ; M. Vakalopoulou at 2023-01-26 13:45:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-14 12:00:00
 Keeping RR - Projet recherche reproductible - M. Colom Barco at 2023-01-10 14:30:00
-Keeping Modélisation en neuroscience - JP.Nadal at 2023-01-10 09:30:00
+Removing Modélisation en neuroscience - JP.Nadal at 2023-01-10 09:30:00
 Keeping RR - Projet recherche reproductible - M. Colom Barco at 2023-01-24 14:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-09 09:30:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-21 12:00:00
@@ -142,12 +142,12 @@ Removing Computational optimal transport  G.Peyré at 2022-11-07 09:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-12-05 12:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-05 12:45:00
 Removing ANNULE - Deep learning V.Lepetit / M. Vakalopoulou at 2022-11-15 09:00:00
-Keeping Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub at 2023-01-17 16:00:00
-Keeping Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub at 2023-01-26 16:00:00
-Keeping Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub at 2023-02-23 16:00:00
-Keeping Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-01-11 16:00:00
-Keeping Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-01-11 16:00:00
-Keeping Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
+Removing Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub at 2023-01-17 16:00:00
+Removing Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub at 2023-01-26 16:00:00
+Removing Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub at 2023-02-23 16:00:00
+Removing Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-01-11 16:00:00
+Removing Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-01-11 16:00:00
+Removing Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2023-01-05 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-16 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-04 13:00:00
@@ -156,14 +156,14 @@ Removing I&I - Apprentissage profond et traitement du signal, introduction et ap
 Removing I&I - Apprentissage profond et traitement du signal, introduction et applications industrielles - T. Courtat at 2022-12-14 14:00:00
 Keeping Imagerie fonctionnelle cérébrale et interface cerveau machine  B.Thirion, T.Papadopoulo at 2023-03-17 09:30:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-10-25 07:00:00
-Keeping I&I - The machine intelligence of images - F. Guichard at 2023-01-27 10:00:00
-Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-03 10:00:00
-Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-10 10:00:00
+Removing I&I - The machine intelligence of images - F. Guichard at 2023-01-27 10:00:00
+Removing I&I - The machine intelligence of images - F. Guichard at 2023-02-03 10:00:00
+Removing I&I - The machine intelligence of images - F. Guichard at 2023-02-10 10:00:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-29 08:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-05 10:00:00
-Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-17 10:00:00
+Removing I&I - The machine intelligence of images - F. Guichard at 2023-02-17 10:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2023-01-11 09:00:00
-Keeping Remote sensing data: from sensor to large-scale geospatial data exploitation  F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt at 2023-01-10 09:00:00
+Removing Remote sensing data: from sensor to large-scale geospatial data exploitation  F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt at 2023-01-10 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-12-07 09:00:00
 Removing Séminaire Turing at 2023-01-18 16:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
@@ -173,9 +173,9 @@ Removing Foundations of distributed and large scale computing optimization -  E.
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-13 09:45:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-01-18 13:00:00
 Keeping Séminaire Panorama Industrie & Ingenierie at 2023-02-08 16:30:00
-Keeping Graphs in machine learning D. Calandriello, M.Valko at 2023-01-16 16:00:00
+Removing Graphs in machine learning D. Calandriello, M.Valko at 2023-01-16 16:00:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2022-11-02 09:00:00
-Keeping Deep learning in practice  G.Charpiat at 2023-01-24 09:00:00
+Removing Deep learning in practice  G.Charpiat at 2023-01-24 09:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-26 11:30:00
 Removing ANNULE - Analyse topologique de données J. Tierny, F. Chazal at 2022-10-17 12:00:00
 Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-20 07:00:00
@@ -188,31 +188,31 @@ Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Matté
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-11-23 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-10-12 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-11-09 09:00:00
-Keeping Problèmes inverses et imagerie : approches statistiques et stochastiques  J.Garnier at 2023-01-13 09:00:00
+Removing Problèmes inverses et imagerie : approches statistiques et stochastiques  J.Garnier at 2023-01-13 09:00:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-20 13:30:00
 Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 14:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-29 13:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-17 09:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-24 09:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-31 09:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-07 10:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-14 10:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-21 10:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-07 10:00:00
-Keeping Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-14 09:00:00
-Keeping I&I - The machine intelligence of images - F. Guichard at 2023-01-27 13:30:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-10 09:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-17 09:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-24 09:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-01-31 09:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-07 10:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-14 10:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-02-21 10:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-07 10:00:00
+Removing Audio signal Analysis, Indexing and Transformations  G.Richard, R.Badeau at 2023-03-14 09:00:00
+Removing I&I - The machine intelligence of images - F. Guichard at 2023-01-27 13:30:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-22 13:00:00
-Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-10 13:30:00
-Keeping I&I - The machine intelligence of images - F. Guichard at 2023-02-17 13:30:00
+Removing I&I - The machine intelligence of images - F. Guichard at 2023-02-10 13:30:00
+Removing I&I - The machine intelligence of images - F. Guichard at 2023-02-17 13:30:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-05-30 10:00:00
-Keeping Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-04-05 06:00:00
+Removing Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-04-05 06:00:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2022-12-09 12:45:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-08 13:00:00
-Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-02-27 14:00:00
-Keeping Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-03-27 14:00:00
+Removing Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-02-27 14:00:00
+Removing Fondements Théoriques de l'apprentissage profond -  S. Gerchinovitz, F. Malgouyres, E. Pauwels, N.Thome at 2023-03-27 14:00:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-23 08:00:00
 Removing ANNULE - Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-10 09:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-11-24 09:00:00
@@ -238,7 +238,7 @@ Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:0
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
 Keeping Théorie des matrices aléatoires et apprentissage  R.Couillet, J.Najim at 2023-01-09 08:30:00
 Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:30:00
-Keeping Modèles, Information et Physique Statistique -  S.Mallat at 2023-01-18 09:30:00
+Removing Modèles, Information et Physique Statistique -  S.Mallat at 2023-01-18 09:30:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-01-18 16:30:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
@@ -256,7 +256,7 @@ Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-02 09:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-09 09:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-16 09:30:00
-Keeping Méthodes de séparation de sources pour l'analyse de données en astrophysique - J.BOBIN, C.KERVAZO at 2023-01-10 13:30:00
+Removing Méthodes de séparation de sources pour l'analyse de données en astrophysique - J.BOBIN, C.KERVAZO at 2023-01-10 13:30:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-10-06 09:45:00
 Keeping Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 09:00:00
@@ -264,7 +264,7 @@ Keeping I&I Introduction à l’apprentissage statistique pour les géosciences 
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-10-11 09:00:00
 Keeping I&I Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-13 09:00:00
 Keeping I&I Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 09:00:00
-Keeping Numerical PDEs for image analysis - J-M. MIREBEAU at 2023-01-11 09:30:00
+Removing Numerical PDEs for image analysis - J-M. MIREBEAU at 2023-01-11 09:30:00
 Keeping I&I Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-27 09:00:00
 Keeping I&I Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-03 09:00:00
 Keeping I&I Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 09:00:00
@@ -277,11 +277,7 @@ Keeping I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perr
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 08:00:00
 Removing Image denoising : the human machine competition JM.Morel, G.Facciolo, P.Arias at 2022-10-05 14:30:00
 Removing Image denoising : the human machine competition JM.Morel, G.Facciolo, P.Arias at 2022-10-19 14:30:00
-Keeping Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-12 09:00:00
+Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-12 09:00:00
 Keeping I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-03-17 08:30:00
 Keeping I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-03-24 08:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-02 09:30:00
-[main e6fe81d] Update 19 décembre 2022, 04:00
- 1 file changed, 155 insertions(+), 155 deletions(-)
-To github.com:RSLLES/ENSCalendar.git
-   506f614..e6fe81d  main -> main
