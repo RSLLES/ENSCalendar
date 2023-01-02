@@ -62,6 +62,12 @@ unfollowed_courses = [
     "Problèmes inverses et imagerie",
     "The machine intelligence of images",
     #"Algorithms for speech and natural language processing",
+    "Introduction à l’apprentissage statistique pour les géosciences",
+    "Théorie des matrices aléatoires et apprentissage",
+    "Projet recherche reproductible",
+    "Deep learning for medical imaging",
+    "Sequential learning",
+    "Imagerie fonctionnelle cérébrale et interface cerveau machine",
 ]
 
 def main():
