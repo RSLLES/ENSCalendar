@@ -281,3 +281,7 @@ Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-12 09:00:00
 Keeping I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-03-17 08:30:00
 Keeping I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-03-24 08:30:00
 Keeping Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-02 09:30:00
+[main 9f405e7] Update 02 janvier 2023, 04:00
+ 1 file changed, 114 insertions(+), 114 deletions(-)
+To github.com:RSLLES/ENSCalendar.git
+   dd43901..9f405e7  main -> main
