@@ -97,6 +97,7 @@ Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-01-24 11:00:0
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-28 13:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-12-16 14:00:00
 Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2022-10-14 14:00:00
+Removing Responsible Machine Learning - N. Vayatis, D. Abu Elyounes, T. Evgeniou, M. Garin at 2023-01-13 14:00:00
 Removing RR - Projet recherche reproductible - M. Colom Barco at 2023-02-09 13:30:00
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-12-06 10:00:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-10-04 09:00:00
