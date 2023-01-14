@@ -104,6 +104,9 @@ Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-03-22 1
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-03-29 13:30:00
 Keeping Forum des stages MVA  at 2022-11-30 08:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-03-13 16:30:00
+Keeping Graphical models : Discrete Inference and Learning D. Wassermann / K. Alahari  at 2023-01-17 13:45:00
+Keeping Graphical models : Discrete Inference and Learning D. Wassermann / K. Alahari  at 2023-01-17 08:30:00
+Keeping Graphical models : Discrete Inference and Learning D. Wassermann / K. Alahari  at 2023-01-24 13:45:00
 Removing Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-31 07:00:00
 Removing Nuages de points et modélisation 3D  F.Goulette, T.Boubekeur, J-E.Deschaud at 2023-01-12 13:45:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-15 13:00:00
