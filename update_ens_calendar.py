@@ -70,6 +70,7 @@ unfollowed_courses = [
     "Sequential learning",
     "Imagerie fonctionnelle cérébrale et interface cerveau machine",
     "Algorithmes pour l'optimisation et la gestion des réseaux",
+    "Graphical models : Discrete Inference and Learning",
 ]
 
 def main():
