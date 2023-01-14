@@ -69,6 +69,7 @@ unfollowed_courses = [
     "Deep learning for medical imaging",
     "Sequential learning",
     "Imagerie fonctionnelle cérébrale et interface cerveau machine",
+    "Algorithmes pour l'optimisation et la gestion des réseaux",
 ]
 
 def main():

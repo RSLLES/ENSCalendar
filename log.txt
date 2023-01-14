@@ -283,3 +283,7 @@ Removing Image denoising : the human machine competition JM.Morel, G.Facciolo, P
 Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-12 09:00:00
 Removing Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-02 09:30:00
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-03-01 13:30:00
+[main 4ddc29f] Update 14 janvier 2023, 04:00
+ 2 files changed, 790 insertions(+), 740 deletions(-)
+To github.com:RSLLES/ENSCalendar.git
+   abed81c..4ddc29f  main -> main
