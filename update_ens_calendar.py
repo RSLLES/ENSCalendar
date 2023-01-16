@@ -42,7 +42,7 @@ unfollowed_courses = [
     #"Modèles génératifs pour l'image",
     "Apprentissage pour les séries temporelles",
     "Fondements Théoriques de l'apprentissage profond",
-    "Deformable models and minimal path methods for image analysis",
+    #"Deformable models and minimal path methods for image analysis",
     "Graphs in machine learning",
     "Audio signal Analysis, Indexing and Transformations",
     "Deep learning in practice",
