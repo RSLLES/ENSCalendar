@@ -152,7 +152,7 @@ Removing Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub
 Removing Deep Reinforcement learning - C. Tallec, B. Piot, M. Rivière, F. Strub at 2023-02-23 16:00:00
 Removing Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-01-11 16:00:00
 Removing Géométrie et espace de formes - A.Trouvé, J.Glaunes at 2023-01-11 16:00:00
-Removing Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
+Keeping Deformable models and minimal path methods for image analysis - L.Cohen at 2023-01-16 14:15:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2023-01-05 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-16 12:30:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-11-04 13:00:00
@@ -283,7 +283,3 @@ Removing Image denoising : the human machine competition JM.Morel, G.Facciolo, P
 Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-12 09:00:00
 Removing Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-02 09:30:00
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-03-01 13:30:00
-[main 3dfb614] Update 16 janvier 2023, 04:00
- 1 file changed, 66 insertions(+), 66 deletions(-)
-To github.com:RSLLES/ENSCalendar.git
-   822d4a4..3dfb614  main -> main
