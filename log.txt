@@ -26,6 +26,7 @@ Keeping Remise à niveau - Statistiques at 2022-09-27 11:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-20 09:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-12-14 13:00:00
 Removing Introduction à l'imagerie numérique Y.Gousseau, J.Delon at 2022-10-27 09:00:00
+Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-23 09:30:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-06 13:30:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-01-20 13:30:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 13:30:00
@@ -51,6 +52,7 @@ Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-11-29 10:00
 Removing ANNULE - Sub-pixel image processing  Lionel Moisan at 2022-11-10 13:30:00
 Removing Modélisation en neuroscience - JP.Nadal at 2023-03-14 08:30:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-12-13 08:00:00
+Removing Apprentissage Profond pour la Restauration et la Synthèse d'Images - Deep Learning for Image Restoration and Synthesis -  A.Almansa, S.Ladjal, A.Newson at 2023-01-24 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-06 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-06 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-10-13 13:30:00
@@ -245,9 +247,9 @@ Keeping Computational statistics  S.Allassonnière at 2022-12-09 09:15:00
 Keeping Remise à niveau - Probabilités at 2022-09-22 12:00:00
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 09:00:00
 Removing Théorie des matrices aléatoires et apprentissage  R.Couillet, J.Najim at 2023-01-09 08:30:00
-Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:30:00
 Removing Modèles, Information et Physique Statistique -  S.Mallat at 2023-01-18 09:30:00
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
+Keeping Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:30:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-01-18 16:30:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
