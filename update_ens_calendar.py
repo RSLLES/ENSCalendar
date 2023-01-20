@@ -39,7 +39,7 @@ unfollowed_courses = [
     ### Semester 2 ###
     ##################
 
-    #"Modèles génératifs pour l'image",
+    "Modèles génératifs pour l'image",
     "Apprentissage pour les séries temporelles",
     "Fondements Théoriques de l'apprentissage profond",
     #"Deformable models and minimal path methods for image analysis",

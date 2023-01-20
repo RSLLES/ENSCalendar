@@ -289,3 +289,7 @@ Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-12 09:00:00
 Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-19 09:00:00
 Removing Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-02 09:30:00
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-03-01 13:30:00
+[main 942f6c4] Update 20 janvier 2023, 04:00
+ 2 files changed, 84 insertions(+), 68 deletions(-)
+To github.com:RSLLES/ENSCalendar.git
+   24d10c1..942f6c4  main -> main
