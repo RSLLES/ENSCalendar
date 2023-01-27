@@ -192,6 +192,7 @@ Keeping Séminaire Critique de l'Intelligence Artificielle at 2022-11-02 09:00:0
 Removing Deep learning in practice  G.Charpiat at 2023-01-24 09:00:00
 Removing Medical Image Analysis based on generative, geometric and biophysical models -  H.Delingette, X.Pennec at 2022-10-26 11:30:00
 Removing ANNULE - Analyse topologique de données J. Tierny, F. Chazal at 2022-10-17 12:00:00
+Keeping Remise rapports 1er jury at 2023-09-15 00:00:00
 Keeping Remise à niveau - Analyse fonctionnelle et analyse de Fourier at 2022-09-20 07:00:00
 Removing Graphs in machine learning D. Calandriello, M.Valko at 2023-01-12 15:00:00
 Keeping Réunion de rentrée - MVA 22/23 at 2022-09-30 07:00:00
@@ -255,6 +256,7 @@ Removing Modèles, Information et Physique Statistique -  S.Mallat at 2023-01-18
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-01-10 10:15:00
 Removing Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-16 09:30:00
 Removing Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-01-30 09:30:00
+Keeping Remise rapport 2è jury at 2023-10-31 00:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-01-18 16:30:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 12:30:00
@@ -281,10 +283,12 @@ Removing Introduction à l’apprentissage statistique pour les géosciences - J
 Removing Analyse topologique de données J.Tierny, F. Chazal at 2022-10-11 09:00:00
 Removing Introduction à l’apprentissage statistique pour les géosciences - J. Kherroubi at 2023-02-10 09:30:00
 Removing Numerical PDEs for image analysis - J-M. MIREBEAU at 2023-01-11 09:30:00
+Keeping Jury at 2023-09-29 11:30:00
 Keeping Biostatistics - R. Porcher, F. Petit, M. Resche-Rigon at 2023-02-28 08:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-11-17 13:00:00
 Removing Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-02-08 13:00:00
 Removing Advanced learning for text and graph data ALTEGRAD  M.Vazirgiannis at 2022-10-27 12:00:00
+Keeping 2è jury at 2023-11-17 12:30:00
 Keeping Remise à niveau - Optimisation convexe at 2022-09-28 08:00:00
 Removing Image denoising : the human machine competition JM.Morel, G.Facciolo, P.Arias at 2022-10-05 14:30:00
 Removing Image denoising : the human machine competition JM.Morel, G.Facciolo, P.Arias at 2022-10-19 14:30:00
