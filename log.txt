@@ -177,6 +177,7 @@ Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Matté
 Removing Remote sensing data: from sensor to large-scale geospatial data exploitation  F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt at 2023-01-10 09:00:00
 Removing Introduction to Probabilistic Graphical Models P.Latouche / P-A. Mattéi at 2022-12-07 09:00:00
 Removing Séminaire Turing at 2023-01-18 16:45:00
+Removing Remote sensing data: from sensor to large-scale geospatial data exploitation  F.Tupin, G.Facciolo, E.Dalsasso, C.De Franchis, E.Meinhardt at 2023-01-31 09:00:00
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-01-11 13:30:00
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-01-25 13:30:00
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-02-01 13:30:00
