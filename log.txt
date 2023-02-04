@@ -43,6 +43,7 @@ Removing I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Per
 Removing I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-03-17 08:30:00
 Removing I&I Algorithmes pour l'optimisation et la gestion des réseaux - N. Perrot at 2023-03-24 08:30:00
 Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-20 16:00:00
+Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-27 16:00:00
 Keeping Reinforcement Learning  M. Pirotta at 2022-10-10 08:00:00
 Keeping Séminaire Panorama Recherche reproductible at 2023-01-25 16:30:00
 Removing Modèles génératifs pour l'image - B. Galerne, V. De Bortoli at 2023-03-20 08:30:00
@@ -123,10 +124,9 @@ Removing Reconnaissance d’objets et vision artificielle / Object recognition a
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-11 16:15:00
 Removing Reconnaissance d’objets et vision artificielle / Object recognition and computer vision   J.Sivic, J.Ponce, I.Laptev, C.Schmid at 2022-10-18 16:15:00
 Removing Foundations of distributed and large scale computing optimization -  E.Chouzenoux at 2022-11-10 09:45:00
-Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-01-27 16:00:00
+Keeping Séminaire Panorama Industrie & Ingenierie at 2023-02-01 16:30:00
 Removing Audio signal processing - Time-frequency analysis  E.Bacry at 2023-01-11 09:30:00
 Removing Sequential learning - P.Gaillard ; R.Degenne at 2023-03-17 09:00:00
-Keeping Séminaire Panorama Industrie & Ingenierie at 2023-02-01 16:30:00
 Removing Analyse topologique de données J. Tierny, F. Chazal at 2022-11-22 10:00:00
 Removing Méthodes mathématiques pour les neurosciences  E.Tanré, R.Veltz at 2022-10-27 13:30:00
 Removing Deep learning for medical imaging  O.Colliot ; M. Vakalopoulou at 2023-01-12 13:45:00
@@ -297,3 +297,4 @@ Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-12 09:00:00
 Removing Bayesian machine learning - J.Arbel, R.Bardenet at 2023-01-19 09:00:00
 Removing Apprentissage pour les séries temporelles - L. OUDRE, C. TRUONG at 2023-03-02 09:30:00
 Keeping Kernel Methods for machine Learning - J. Mairal, M.Arbel at 2023-03-01 13:30:00
+Keeping Algorithms for speech and natural language processing  E.Dupoux, B.Sagot at 2023-02-10 16:00:00
