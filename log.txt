@@ -39,6 +39,7 @@ Removing Sub-pixel image processing  Lionel Moisan at 2022-12-01 13:30:00
 Removing Sub-pixel image processing  Lionel Moisan at 2022-12-08 13:30:00
 Removing Deep learning V.Lepetit / M. Vakalopoulou at 2023-01-10 08:00:00
 Removing Théorie de la détection et ses applications industrielles / Detection Theory and Industrial Applications- J-M. Morel, R. Grompone at 2023-01-05 14:00:00
+Removing Modélisation en neuroscience - JP.Nadal at 2023-03-28 07:30:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Convex optimization   A.d'Aspremont at 2022-10-03 13:00:00
 Keeping Séminaire Critique de l'Intelligence Artificielle at 2023-01-24 11:00:00
